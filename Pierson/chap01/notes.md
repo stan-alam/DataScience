@@ -61,4 +61,10 @@ Data Scientists use mathematical methods to build decision models, generate appr
 
 ## Deriving insights from statistical methods
 
+Data science, statistical methods are useful for better understanding your data's significance, for validating hypotheses, for simulating scenarios, and for making predictive forecasts of future events. Advanced stat skills are somewhat rare, even among quantitative analysts, engineers and scientists. *linear and logistic regression, naive Bayes classification, and time series analysis.
+
+## Applying data science to a subject area
+
+Statistician say data science is nothing new. Data science is a distinct from statistical approaches that compromise it.
+
 
