@@ -30,4 +30,35 @@ Organizations of all sizes are beginning to recognize that they're immersed in a
  **Technical marking strategy development** Use data insights and predictive analytics to identify marketing strategies that work, eliminate under-performing efforts, and test new marking strategies.
 
 
+*Data Engineers* - are specialists who are constantly finding innovative and powerful new ways to capture, collate, and condense large amounts of massive volumes of data.
+
+*Data scientists* - are leading change by deriving valuable and actionable insights from that data.
+
+**Data-science** represents the optimization of processes and resources. Data science produces *data insights* --actionable, data-informed conclusions or predictions that you can use to understand and improve your business, your investments, your health, and lifestyle.
+
+Using data science insights is like being able to see in the dark. For any goal or pursuit you can imagine, you can find data science methods to help you predict the most direct route from where you are to where you want to be -- and to anticipate every pothole in the road between both places.
+
+Almost all industries are reliant on data.
+
+**Business Systems**: Optimize returns on investments for any measurable activity.
+
+**Tecnical Marketing strategy development**: use data insights and predictive analytics to identify marketing strategies that work, eliminate under-performing efforts, and test new marketing strategies.
+
+**Keep communities safe:** Predictive policing applications help law enforcement predict and prevent crime.
+
+**Help Make the world better for less fortunate** Data scientists in developing nations are using social data, mobile data, and data from websites to generate real-time analytics that improve the effectiveness of humanitarian response to disaster, epidemics, food scarcity issues, and more.
+
+CSV files, scripts , e.g. Python, R, Application files : e.g. Excel, Web Programming files: build custom, web-based visualization in D3.js -- or Data-Driven Documents, a JavaScript library for data visualization. When working in D3.js you use data to manipulate web-based documents .html, .svg, .css
+
+**Applying mathematical modeling to data science tasks**
+
+Data science relies heavily on a practitioner's math skills. These are the skill needed to understand data and its significance. These skills are also valuable in data science -- you carry them out for predictive forecasting, decision modeling and hypotheses testing.
+
+Mathematics uses deterministic methods to form a quantitative ( numerical ) description; stats is a form of science that's derived from math, but focuses on **stochastic** probabilities approach and inferential methods to form a quantitative description of the world.
+
+Data Scientists use mathematical methods to build decision models, generate approximations, and make predictions about the future.
+
+
+## Deriving insights from statistical methods
+
 
