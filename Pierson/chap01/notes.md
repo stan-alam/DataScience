@@ -42,7 +42,7 @@ Almost all industries are reliant on data.
 
 **Business Systems**: Optimize returns on investments for any measurable activity.
 
-**Tecnical Marketing strategy development**: use data insights and predictive analytics to identify marketing strategies that work, eliminate under-performing efforts, and test new marketing strategies.
+**Technical Marketing strategy development**: use data insights and predictive analytics to identify marketing strategies that work, eliminate under-performing efforts, and test new marketing strategies.
 
 **Keep communities safe:** Predictive policing applications help law enforcement predict and prevent crime.
 
