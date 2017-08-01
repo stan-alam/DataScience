@@ -69,5 +69,25 @@ Always use the fastest method available. Working with memory is faster than disk
 
 **speed and reliability**
 
+I/O Read/Write operation speeds in databases. 
+
+
+## SciPy for scientific tools 
+
+
+Python libs that provide support for mathematics, engineering, general science.
+
+	* NumPy
+
+	* SciPy
+
+	* matplotlib
+
+	*Sympy
+
+	*pandas
+
+SciP lib focuses on numerical routines, such as routines for numerical integration and optimization. SciPy is general-purpose library. Providing support for domain-specific libraries, such as Scikit-image and statsmodels.
+
 
 
