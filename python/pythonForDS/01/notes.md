@@ -83,11 +83,42 @@ Python libs that provide support for mathematics, engineering, general science.
 
 	* matplotlib
 
-	*Sympy
+	* Sympy
 
-	*pandas
+	* pandas
 
-SciP lib focuses on numerical routines, such as routines for numerical integration and optimization. SciPy is general-purpose library. Providing support for domain-specific libraries, such as Scikit-image and statsmodels.
+SciPy lib focuses on numerical routines, such as routines for numerical integration and optimization. SciPy is general-purpose library. Providing support for domain-specific libraries, such as Scikit-image and statsmodels.
+
+
+## NumPy used for performing fundamental scientific computing 
+
+The NumPy lib provides the means for performing n-dimensional array manipulation, which is critical for data science work. **NumPy includes to support linear Algebra, Fourier transform, and random-number generation**
+
+## Using Pandas for data analysis
+
+Pandas provide support for data structures and data analysis tools. The lib is optimized to perform data science tasks especially fast and efficiently. The principle behind pandas is to provide data analysis and modeling support for Python that is similar as R.
+
+## Scikit-learn for implementing machine learning 
+
+Scikit-learn lib builds on the capabilities provided by NumPy and SciPy to allow Python developers to perform domain-specific tasks. **The lib focuses on data mining and data analysis. it provides access to the following sorts of functionality** :
+
+**Classification**
+
+**Regression** 
+
+**Clustering**
+
+**Dimensionality reduction**
+
+**Model selection**
+
+**Preprocessing**
+
+    Beautiful soup good for HTML/XML parsing
+
+Pythonxy alternative to intelliJ
+
+
 
 
 
