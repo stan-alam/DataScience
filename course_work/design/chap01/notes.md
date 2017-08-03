@@ -20,7 +20,7 @@ This will all fall under  the * **valuing doing this right**
 
 **The purpose of computing is insight, not numbers**
 
-WHat is data science ? It is an emerging field which has been completely defined.
+**WHat is data science ? It is an emerging field which has been NOT completely defined.**
 
 Data science lies at the intersection of computer science, stats and substantive application domains.
 
