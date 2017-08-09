@@ -12,4 +12,12 @@ A project in data science needs to have a purpose and corresponding goals. **Onl
 
 To build a good chair, you have to know how to use the tools as well as what, specifically, to with them. 
 
+**In data science, a goal is much less likely to be achievable in exactly its original form. In a room full of software devs or inexperienced data-scientists, be particularly wary of anyone presupposing without evidence that a goal is 100 percent achievable.**
+
+**Knowledge first, then technology, and then opinion.**
+
+**Document your data project**
+
+Make sure everything—files, folders, documents, and so on....has a meaningful name
+
 
