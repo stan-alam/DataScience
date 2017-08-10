@@ -18,6 +18,6 @@ To build a good chair, you have to know how to use the tools as well as what, sp
 
 **Document your data project**
 
-Make sure everything—files, folders, documents, and so on....has a meaningful name
+Make sure everything i.e. files, folders, documents, and so on....has a meaningful name
 
 
