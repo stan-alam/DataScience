@@ -74,6 +74,8 @@ is not # type(2) is not int is False
 
 # is not Evaluates to true when the type of the value or expression in the right operand points to a different type than the value or expression in the left operand
 
+```
+
 ```Python
 
 import datetime
@@ -82,7 +84,7 @@ str(datetime.datetime.now().date())
 
 ```
 
-Just a high level defintition of a function 
+Just a high level definition of a function 
 
 **The caller supplies information to the function (arguments, or params) and the function processes that information(data)
 and returns a value**
