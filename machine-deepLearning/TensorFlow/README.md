@@ -1,5 +1,12 @@
 ## TensorFlow workspace
 
+<a>
+  <img src="https://github.com/stan-alam/DataScience/blob/develop/machine-deepLearning/TensorFlow/notes01/23.01.2018/Notebook-16.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/DataScience/blob/develop/machine-deepLearning/TensorFlow/notes01/23.01.2018/Notebook-17.svg" width="80%" height="80%">
+</a>
 
 1.Installed Docker
 
