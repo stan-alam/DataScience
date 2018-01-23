@@ -1,441 +1,3 @@
-Suggested packages:
-  gettext-base git-daemon-run | git-daemon-sysvinit git-doc git-el git-email
-  git-gui gitk gitweb git-arch git-cvs git-mediawiki git-svn gsfonts
-  graphviz-doc libgd-tools gnutls-bin krb5-doc krb5-user libhdf5-doc
-  libsasl2-modules-otp libsasl2-modules-ldap libsasl2-modules-sql
-  libsasl2-modules-gssapi-mit | libsasl2-modules-gssapi-heimdal ssh-askpass
-  libpam-ssh keychain monkeysphere openssh-server sgml-base-doc debhelper
-The following NEW packages will be installed:
-  ca-certificates fontconfig fontconfig-config fonts-dejavu-core
-  fonts-liberation git git-man graphviz hdf5-helpers krb5-locales less
-  libaec-dev libaec0 libasn1-8-heimdal libbsd0 libcairo2 libcdt5 libcgraph6
-  libcurl3-gnutls libdatrie1 libedit2 liberror-perl libexpat1 libffi6
-  libfontconfig1 libfreetype6 libgd3 libgfortran3 libglib2.0-0 libglib2.0-data
-  libgnutls30 libgraphite2-3 libgssapi-krb5-2 libgssapi3-heimdal libgvc6
-  libgvpr2 libharfbuzz0b libhcrypto4-heimdal libhdf5-10 libhdf5-cpp-11
-  libhdf5-dev libheimbase1-heimdal libheimntlm0-heimdal libhogweed4
-  libhx509-5-heimdal libice6 libicu55 libidn11 libjbig0 libjpeg-dev
-  libjpeg-turbo8 libjpeg-turbo8-dev libjpeg8 libjpeg8-dev libk5crypto3
-  libkeyutils1 libkrb5-26-heimdal libkrb5-3 libkrb5support0 libldap-2.4-2
-  libltdl7 libnettle6 libp11-kit0 libpango-1.0-0 libpangocairo-1.0-0
-  libpangoft2-1.0-0 libpathplan4 libpixman-1-0 libpng12-0 libpopt0
-  libroken18-heimdal librtmp1 libsasl2-2 libsasl2-modules libsasl2-modules-db
-  libsm6 libsqlite3-0 libssl1.0.0 libsz2 libtasn1-6 libthai-data libthai0
-  libtiff5 libvpx3 libwind0-heimdal libx11-6 libx11-data libxau6 libxaw7
-  libxcb-render0 libxcb-shm0 libxcb1 libxdmcp6 libxext6 libxml2 libxmu6
-  libxmuu1 libxpm4 libxrender1 libxt6 openssh-client openssl rsync sgml-base
-  shared-mime-info ucf wget x11-common xauth xdg-user-dirs xml-core zlib1g-dev
-0 upgraded, 112 newly installed, 0 to remove and 4 not upgraded.
-Need to get 35.4 MB of archives.
-After this operation, 163 MB of additional disk space will be used.
-Get:1 http://archive.ubuntu.com/ubuntu xenial/main amd64 libpopt0 amd64 1.16-10 [26.0 kB]
-Get:2 http://archive.ubuntu.com/ubuntu xenial/main amd64 libxau6 amd64 1:1.0.8-1 [8376 B]
-Get:3 http://archive.ubuntu.com/ubuntu xenial/main amd64 libxdmcp6 amd64 1:1.1.2-1.1 [11.0 kB]
-Get:4 http://archive.ubuntu.com/ubuntu xenial/main amd64 libxcb1 amd64 1.11.1-1ubuntu1 [40.0 kB]
-Get:5 http://archive.ubuntu.com/ubuntu xenial/main amd64 libx11-data all 2:1.6.3-1ubuntu2 [113 kB]
-Get:6 http://archive.ubuntu.com/ubuntu xenial/main amd64 libx11-6 amd64 2:1.6.3-1ubuntu2 [571 kB]
-Get:7 http://archive.ubuntu.com/ubuntu xenial/main amd64 libxext6 amd64 2:1.3.3-1 [29.4 kB]
-Get:8 http://archive.ubuntu.com/ubuntu xenial/main amd64 sgml-base all 1.26+nmu4ubuntu1 [12.5 kB]
-Get:9 http://archive.ubuntu.com/ubuntu xenial/main amd64 fonts-dejavu-core all 2.35-1 [1039 kB]
-Get:10 http://archive.ubuntu.com/ubuntu xenial/main amd64 ucf all 3.0036 [52.9 kB]
-Get:11 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 fontconfig-config all 2.11.94-0ubuntu1.1 [49.9 kB]
-Get:12 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libexpat1 amd64 2.1.0-7ubuntu0.16.04.3 [71.2 kB]
-Get:13 http://archive.ubuntu.com/ubuntu xenial/main amd64 libpng12-0 amd64 1.2.54-1ubuntu1 [116 kB]
-Get:14 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libfreetype6 amd64 2.6.1-0.1ubuntu2.3 [316 kB]
-Get:15 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libfontconfig1 amd64 2.11.94-0ubuntu1.1 [131 kB]
-Get:16 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 fontconfig amd64 2.11.94-0ubuntu1.1 [178 kB]
-Get:17 http://archive.ubuntu.com/ubuntu xenial/main amd64 x11-common all 1:7.7+13ubuntu3 [22.4 kB]
-Get:18 http://archive.ubuntu.com/ubuntu xenial/main amd64 libice6 amd64 2:1.0.9-1 [39.2 kB]
-Get:19 http://archive.ubuntu.com/ubuntu xenial/main amd64 libjpeg-turbo8 amd64 1.4.2-0ubuntu3 [111 kB]
-Get:20 http://archive.ubuntu.com/ubuntu xenial/main amd64 libsm6 amd64 2:1.2.2-1 [15.8 kB]
-Get:21 http://archive.ubuntu.com/ubuntu xenial/main amd64 libjbig0 amd64 2.1-3.1 [26.6 kB]
-Get:22 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 less amd64 481-2.1ubuntu0.2 [110 kB]
-Get:23 http://archive.ubuntu.com/ubuntu xenial/main amd64 libbsd0 amd64 0.8.2-1 [41.7 kB]
-Get:24 http://archive.ubuntu.com/ubuntu xenial/main amd64 libffi6 amd64 3.2.1-4 [17.8 kB]
-Get:25 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libnettle6 amd64 3.2-1ubuntu0.16.04.1 [93.5 kB]
-Get:26 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libhogweed4 amd64 3.2-1ubuntu0.16.04.1 [136 kB]
-Get:27 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libidn11 amd64 1.32-3ubuntu1.2 [46.5 kB]
-Get:28 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libp11-kit0 amd64 0.23.2-5~ubuntu16.04.1 [105 kB]
-Get:29 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libtasn1-6 amd64 4.7-3ubuntu0.16.04.2 [43.3 kB]
-Get:30 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgnutls30 amd64 3.4.10-4ubuntu1.4 [548 kB]
-Get:31 http://archive.ubuntu.com/ubuntu xenial/main amd64 libsqlite3-0 amd64 3.11.0-1ubuntu1 [396 kB]
-Get:32 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libssl1.0.0 amd64 1.0.2g-1ubuntu4.10 [1083 kB]
-Get:33 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 openssl amd64 1.0.2g-1ubuntu4.10 [492 kB]
-Get:34 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 ca-certificates all 20170717~16.04.1 [168 kB]
-Get:35 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 krb5-locales all 1.13.2+dfsg-5ubuntu2 [13.2 kB]
-Get:36 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libroken18-heimdal amd64 1.7~git20150920+dfsg-4ubuntu1.16.04.1 [41.4 kB]
-Get:37 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libasn1-8-heimdal amd64 1.7~git20150920+dfsg-4ubuntu1.16.04.1 [174 kB]
-Get:38 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libkrb5support0 amd64 1.13.2+dfsg-5ubuntu2 [30.8 kB]
-Get:39 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libk5crypto3 amd64 1.13.2+dfsg-5ubuntu2 [81.2 kB]
-Get:40 http://archive.ubuntu.com/ubuntu xenial/main amd64 libkeyutils1 amd64 1.5.9-8ubuntu1 [9904 B]
-Get:41 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libkrb5-3 amd64 1.13.2+dfsg-5ubuntu2 [273 kB]
-Get:42 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgssapi-krb5-2 amd64 1.13.2+dfsg-5ubuntu2 [120 kB]
-Get:43 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libhcrypto4-heimdal amd64 1.7~git20150920+dfsg-4ubuntu1.16.04.1 [85.0 kB]
-Get:44 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libheimbase1-heimdal amd64 1.7~git20150920+dfsg-4ubuntu1.16.04.1 [29.3 kB]
-Get:45 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libwind0-heimdal amd64 1.7~git20150920+dfsg-4ubuntu1.16.04.1 [47.8 kB]
-Get:46 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libhx509-5-heimdal amd64 1.7~git20150920+dfsg-4ubuntu1.16.04.1 [107 kB]
-Get:47 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libkrb5-26-heimdal amd64 1.7~git20150920+dfsg-4ubuntu1.16.04.1 [202 kB]
-Get:48 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libheimntlm0-heimdal amd64 1.7~git20150920+dfsg-4ubuntu1.16.04.1 [15.1 kB]
-Get:49 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgssapi3-heimdal amd64 1.7~git20150920+dfsg-4ubuntu1.16.04.1 [96.1 kB]
-Get:50 http://archive.ubuntu.com/ubuntu xenial/main amd64 libsasl2-modules-db amd64 2.1.26.dfsg1-14build1 [14.5 kB]
-Get:51 http://archive.ubuntu.com/ubuntu xenial/main amd64 libsasl2-2 amd64 2.1.26.dfsg1-14build1 [48.7 kB]
-Get:52 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libldap-2.4-2 amd64 2.4.42+dfsg-2ubuntu3.2 [160 kB]
-Get:53 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 librtmp1 amd64 2.4+20151223.gitfa8646d-1ubuntu0.1 [54.4 kB]
-Get:54 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libcurl3-gnutls amd64 7.47.0-1ubuntu2.5 [184 kB]
-Get:55 http://archive.ubuntu.com/ubuntu xenial/main amd64 libedit2 amd64 3.1-20150325-1ubuntu2 [76.5 kB]
-Get:56 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libglib2.0-0 amd64 2.48.2-0ubuntu1 [1119 kB]
-Get:57 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libglib2.0-data all 2.48.2-0ubuntu1 [132 kB]
-Get:58 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libicu55 amd64 55.1-7ubuntu0.3 [7658 kB]
-Get:59 http://archive.ubuntu.com/ubuntu xenial/main amd64 libsasl2-modules amd64 2.1.26.dfsg1-14build1 [47.5 kB]
-Get:60 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libxml2 amd64 2.9.3+dfsg1-1ubuntu0.5 [697 kB]
-Get:61 http://archive.ubuntu.com/ubuntu xenial/main amd64 libxmuu1 amd64 2:1.1.2-2 [9674 B]
-Get:62 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 openssh-client amd64 1:7.2p2-4ubuntu2.4 [589 kB]
-Get:63 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 rsync amd64 3.1.1-3ubuntu1.1 [329 kB]
-Get:64 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 shared-mime-info amd64 1.5-2ubuntu0.1 [405 kB]
-Get:65 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 wget amd64 1.17.1-1ubuntu1.3 [299 kB]
-Get:66 http://archive.ubuntu.com/ubuntu xenial/main amd64 xauth amd64 1:1.0.9-1ubuntu2 [22.7 kB]
-Get:67 http://archive.ubuntu.com/ubuntu xenial/main amd64 xdg-user-dirs amd64 0.15-2ubuntu6 [61.7 kB]
-Get:68 http://archive.ubuntu.com/ubuntu xenial/main amd64 xml-core all 0.13+nmu2 [23.3 kB]
-Get:69 http://archive.ubuntu.com/ubuntu xenial/main amd64 fonts-liberation all 1.07.4-1 [829 kB]
-Get:70 http://archive.ubuntu.com/ubuntu xenial/main amd64 liberror-perl all 0.17-1.2 [19.6 kB]
-Get:71 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 git-man all 1:2.7.4-0ubuntu1.3 [736 kB]
-Get:72 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 git amd64 1:2.7.4-0ubuntu1.3 [3102 kB]
-Get:73 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libcdt5 amd64 2.38.0-12ubuntu2.1 [23.4 kB]
-Get:74 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libcgraph6 amd64 2.38.0-12ubuntu2.1 [43.6 kB]
-Get:75 http://archive.ubuntu.com/ubuntu xenial/main amd64 libjpeg8 amd64 8c-2ubuntu8 [2194 B]
-Get:76 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libtiff5 amd64 4.0.6-1ubuntu0.2 [146 kB]
-Get:77 http://archive.ubuntu.com/ubuntu xenial/main amd64 libvpx3 amd64 1.5.0-2ubuntu1 [732 kB]
-Get:78 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libxpm4 amd64 1:3.5.11-1ubuntu0.16.04.1 [33.8 kB]
-Get:79 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgd3 amd64 2.1.1-4ubuntu0.16.04.8 [126 kB]
-Get:80 http://archive.ubuntu.com/ubuntu xenial/main amd64 libpixman-1-0 amd64 0.33.6-1 [231 kB]
-Get:81 http://archive.ubuntu.com/ubuntu xenial/main amd64 libxcb-render0 amd64 1.11.1-1ubuntu1 [11.4 kB]
-Get:82 http://archive.ubuntu.com/ubuntu xenial/main amd64 libxcb-shm0 amd64 1.11.1-1ubuntu1 [5588 B]
-Get:83 http://archive.ubuntu.com/ubuntu xenial/main amd64 libxrender1 amd64 1:0.9.9-0ubuntu1 [18.5 kB]
-Get:84 http://archive.ubuntu.com/ubuntu xenial/main amd64 libcairo2 amd64 1.14.6-1 [555 kB]
-Get:85 http://archive.ubuntu.com/ubuntu xenial/main amd64 libltdl7 amd64 2.4.6-0.1 [38.3 kB]
-Get:86 http://archive.ubuntu.com/ubuntu xenial/main amd64 libthai-data all 0.1.24-2 [131 kB]
-Get:87 http://archive.ubuntu.com/ubuntu xenial/main amd64 libdatrie1 amd64 0.2.10-2 [17.3 kB]
-Get:88 http://archive.ubuntu.com/ubuntu xenial/main amd64 libthai0 amd64 0.1.24-2 [17.3 kB]
-Get:89 http://archive.ubuntu.com/ubuntu xenial/main amd64 libpango-1.0-0 amd64 1.38.1-1 [148 kB]
-Get:90 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgraphite2-3 amd64 1.3.10-0ubuntu0.16.04.1 [71.7 kB]
-Get:91 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libharfbuzz0b amd64 1.0.1-1ubuntu0.1 [140 kB]
-Get:92 http://archive.ubuntu.com/ubuntu xenial/main amd64 libpangoft2-1.0-0 amd64 1.38.1-1 [33.3 kB]
-Get:93 http://archive.ubuntu.com/ubuntu xenial/main amd64 libpangocairo-1.0-0 amd64 1.38.1-1 [20.5 kB]
-Get:94 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libpathplan4 amd64 2.38.0-12ubuntu2.1 [26.6 kB]
-Get:95 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgvc6 amd64 2.38.0-12ubuntu2.1 [591 kB]
-Get:96 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgvpr2 amd64 2.38.0-12ubuntu2.1 [170 kB]
-Get:97 http://archive.ubuntu.com/ubuntu xenial/main amd64 libxt6 amd64 1:1.1.5-0ubuntu1 [160 kB]
-Get:98 http://archive.ubuntu.com/ubuntu xenial/main amd64 libxmu6 amd64 2:1.1.2-2 [46.0 kB]
-Get:99 http://archive.ubuntu.com/ubuntu xenial/main amd64 libxaw7 amd64 2:1.0.13-1 [173 kB]
-Get:100 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 graphviz amd64 2.38.0-12ubuntu2.1 [680 kB]
-Get:101 http://archive.ubuntu.com/ubuntu xenial/universe amd64 hdf5-helpers amd64 1.8.16+docs-4ubuntu1 [12.5 kB]
-Get:102 http://archive.ubuntu.com/ubuntu xenial/universe amd64 libaec0 amd64 0.3.2-1 [18.0 kB]
-Get:103 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgfortran3 amd64 5.4.0-6ubuntu1~16.04.5 [260 kB]
-Get:104 http://archive.ubuntu.com/ubuntu xenial/universe amd64 libsz2 amd64 0.3.2-1 [5048 B]
-Get:105 http://archive.ubuntu.com/ubuntu xenial/universe amd64 libhdf5-10 amd64 1.8.16+docs-4ubuntu1 [995 kB]
-Get:106 http://archive.ubuntu.com/ubuntu xenial/universe amd64 libhdf5-cpp-11 amd64 1.8.16+docs-4ubuntu1 [101 kB]
-Get:107 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 zlib1g-dev amd64 1:1.2.8.dfsg-2ubuntu4.1 [168 kB]
-Get:108 http://archive.ubuntu.com/ubuntu xenial/main amd64 libjpeg-turbo8-dev amd64 1.4.2-0ubuntu3 [254 kB]
-Get:109 http://archive.ubuntu.com/ubuntu xenial/main amd64 libjpeg8-dev amd64 8c-2ubuntu8 [1552 B]
-Get:110 http://archive.ubuntu.com/ubuntu xenial/main amd64 libjpeg-dev amd64 8c-2ubuntu8 [1546 B]
-Get:111 http://archive.ubuntu.com/ubuntu xenial/universe amd64 libaec-dev amd64 0.3.2-1 [16.6 kB]
-Get:112 http://archive.ubuntu.com/ubuntu xenial/universe amd64 libhdf5-dev amd64 1.8.16+docs-4ubuntu1 [5005 kB]
-debconf: delaying package configuration, since apt-utils is not installed
-Fetched 35.4 MB in 22s (1601 kB/s)
-Selecting previously unselected package libpopt0:amd64.
-(Reading database ... 11153 files and directories currently installed.)
-Preparing to unpack .../libpopt0_1.16-10_amd64.deb ...
-Unpacking libpopt0:amd64 (1.16-10) ...
-Selecting previously unselected package libxau6:amd64.
-Preparing to unpack .../libxau6_1%3a1.0.8-1_amd64.deb ...
-Unpacking libxau6:amd64 (1:1.0.8-1) ...
-Selecting previously unselected package libxdmcp6:amd64.
-Preparing to unpack .../libxdmcp6_1%3a1.1.2-1.1_amd64.deb ...
-Unpacking libxdmcp6:amd64 (1:1.1.2-1.1) ...
-Selecting previously unselected package libxcb1:amd64.
-Preparing to unpack .../libxcb1_1.11.1-1ubuntu1_amd64.deb ...
-Unpacking libxcb1:amd64 (1.11.1-1ubuntu1) ...
-Selecting previously unselected package libx11-data.
-Preparing to unpack .../libx11-data_2%3a1.6.3-1ubuntu2_all.deb ...
-Unpacking libx11-data (2:1.6.3-1ubuntu2) ...
-Selecting previously unselected package libx11-6:amd64.
-Preparing to unpack .../libx11-6_2%3a1.6.3-1ubuntu2_amd64.deb ...
-Unpacking libx11-6:amd64 (2:1.6.3-1ubuntu2) ...
-Selecting previously unselected package libxext6:amd64.
-Preparing to unpack .../libxext6_2%3a1.3.3-1_amd64.deb ...
-Unpacking libxext6:amd64 (2:1.3.3-1) ...
-Selecting previously unselected package sgml-base.
-Preparing to unpack .../sgml-base_1.26+nmu4ubuntu1_all.deb ...
-Unpacking sgml-base (1.26+nmu4ubuntu1) ...
-Selecting previously unselected package fonts-dejavu-core.
-Preparing to unpack .../fonts-dejavu-core_2.35-1_all.deb ...
-Unpacking fonts-dejavu-core (2.35-1) ...
-Selecting previously unselected package ucf.
-Preparing to unpack .../archives/ucf_3.0036_all.deb ...
-Moving old data out of the way
-Unpacking ucf (3.0036) ...
-Selecting previously unselected package fontconfig-config.
-Preparing to unpack .../fontconfig-config_2.11.94-0ubuntu1.1_all.deb ...
-Unpacking fontconfig-config (2.11.94-0ubuntu1.1) ...
-Selecting previously unselected package libexpat1:amd64.
-Preparing to unpack .../libexpat1_2.1.0-7ubuntu0.16.04.3_amd64.deb ...
-Unpacking libexpat1:amd64 (2.1.0-7ubuntu0.16.04.3) ...
-Selecting previously unselected package libpng12-0:amd64.
-Preparing to unpack .../libpng12-0_1.2.54-1ubuntu1_amd64.deb ...
-Unpacking libpng12-0:amd64 (1.2.54-1ubuntu1) ...
-Selecting previously unselected package libfreetype6:amd64.
-Preparing to unpack .../libfreetype6_2.6.1-0.1ubuntu2.3_amd64.deb ...
-Unpacking libfreetype6:amd64 (2.6.1-0.1ubuntu2.3) ...
-Selecting previously unselected package libfontconfig1:amd64.
-Preparing to unpack .../libfontconfig1_2.11.94-0ubuntu1.1_amd64.deb ...
-Unpacking libfontconfig1:amd64 (2.11.94-0ubuntu1.1) ...
-Selecting previously unselected package fontconfig.
-Preparing to unpack .../fontconfig_2.11.94-0ubuntu1.1_amd64.deb ...
-Unpacking fontconfig (2.11.94-0ubuntu1.1) ...
-Selecting previously unselected package x11-common.
-Preparing to unpack .../x11-common_1%3a7.7+13ubuntu3_all.deb ...
-Unpacking x11-common (1:7.7+13ubuntu3) ...
-Selecting previously unselected package libice6:amd64.
-Preparing to unpack .../libice6_2%3a1.0.9-1_amd64.deb ...
-Unpacking libice6:amd64 (2:1.0.9-1) ...
-Selecting previously unselected package libjpeg-turbo8:amd64.
-Preparing to unpack .../libjpeg-turbo8_1.4.2-0ubuntu3_amd64.deb ...
-Unpacking libjpeg-turbo8:amd64 (1.4.2-0ubuntu3) ...
-Selecting previously unselected package libsm6:amd64.
-Preparing to unpack .../libsm6_2%3a1.2.2-1_amd64.deb ...
-Unpacking libsm6:amd64 (2:1.2.2-1) ...
-Selecting previously unselected package libjbig0:amd64.
-Preparing to unpack .../libjbig0_2.1-3.1_amd64.deb ...
-Unpacking libjbig0:amd64 (2.1-3.1) ...
-Selecting previously unselected package less.
-Preparing to unpack .../less_481-2.1ubuntu0.2_amd64.deb ...
-Unpacking less (481-2.1ubuntu0.2) ...
-Selecting previously unselected package libbsd0:amd64.
-Preparing to unpack .../libbsd0_0.8.2-1_amd64.deb ...
-Unpacking libbsd0:amd64 (0.8.2-1) ...
-Selecting previously unselected package libffi6:amd64.
-Preparing to unpack .../libffi6_3.2.1-4_amd64.deb ...
-Unpacking libffi6:amd64 (3.2.1-4) ...
-Selecting previously unselected package libnettle6:amd64.
-Preparing to unpack .../libnettle6_3.2-1ubuntu0.16.04.1_amd64.deb ...
-Unpacking libnettle6:amd64 (3.2-1ubuntu0.16.04.1) ...
-Selecting previously unselected package libhogweed4:amd64.
-Preparing to unpack .../libhogweed4_3.2-1ubuntu0.16.04.1_amd64.deb ...
-Unpacking libhogweed4:amd64 (3.2-1ubuntu0.16.04.1) ...
-Selecting previously unselected package libidn11:amd64.
-Preparing to unpack .../libidn11_1.32-3ubuntu1.2_amd64.deb ...
-Unpacking libidn11:amd64 (1.32-3ubuntu1.2) ...
-Selecting previously unselected package libp11-kit0:amd64.
-Preparing to unpack .../libp11-kit0_0.23.2-5~ubuntu16.04.1_amd64.deb ...
-Unpacking libp11-kit0:amd64 (0.23.2-5~ubuntu16.04.1) ...
-Selecting previously unselected package libtasn1-6:amd64.
-Preparing to unpack .../libtasn1-6_4.7-3ubuntu0.16.04.2_amd64.deb ...
-Unpacking libtasn1-6:amd64 (4.7-3ubuntu0.16.04.2) ...
-Selecting previously unselected package libgnutls30:amd64.
-Preparing to unpack .../libgnutls30_3.4.10-4ubuntu1.4_amd64.deb ...
-Unpacking libgnutls30:amd64 (3.4.10-4ubuntu1.4) ...
-Selecting previously unselected package libsqlite3-0:amd64.
-Preparing to unpack .../libsqlite3-0_3.11.0-1ubuntu1_amd64.deb ...
-Unpacking libsqlite3-0:amd64 (3.11.0-1ubuntu1) ...
-Selecting previously unselected package libssl1.0.0:amd64.
-Preparing to unpack .../libssl1.0.0_1.0.2g-1ubuntu4.10_amd64.deb ...
-Unpacking libssl1.0.0:amd64 (1.0.2g-1ubuntu4.10) ...
-Selecting previously unselected package openssl.
-Preparing to unpack .../openssl_1.0.2g-1ubuntu4.10_amd64.deb ...
-Unpacking openssl (1.0.2g-1ubuntu4.10) ...
-Selecting previously unselected package ca-certificates.
-Preparing to unpack .../ca-certificates_20170717~16.04.1_all.deb ...
-Unpacking ca-certificates (20170717~16.04.1) ...
-Selecting previously unselected package krb5-locales.
-Preparing to unpack .../krb5-locales_1.13.2+dfsg-5ubuntu2_all.deb ...
-Unpacking krb5-locales (1.13.2+dfsg-5ubuntu2) ...
-Selecting previously unselected package libroken18-heimdal:amd64.
-Preparing to unpack .../libroken18-heimdal_1.7~git20150920+dfsg-4ubuntu1.16.04.1_amd64.deb ...
-Unpacking libroken18-heimdal:amd64 (1.7~git20150920+dfsg-4ubuntu1.16.04.1) ...
-Selecting previously unselected package libasn1-8-heimdal:amd64.
-Preparing to unpack .../libasn1-8-heimdal_1.7~git20150920+dfsg-4ubuntu1.16.04.1_amd64.deb ...
-Unpacking libasn1-8-heimdal:amd64 (1.7~git20150920+dfsg-4ubuntu1.16.04.1) ...
-Selecting previously unselected package libkrb5support0:amd64.
-Preparing to unpack .../libkrb5support0_1.13.2+dfsg-5ubuntu2_amd64.deb ...
-Unpacking libkrb5support0:amd64 (1.13.2+dfsg-5ubuntu2) ...
-Selecting previously unselected package libk5crypto3:amd64.
-Preparing to unpack .../libk5crypto3_1.13.2+dfsg-5ubuntu2_amd64.deb ...
-Unpacking libk5crypto3:amd64 (1.13.2+dfsg-5ubuntu2) ...
-Selecting previously unselected package libkeyutils1:amd64.
-Preparing to unpack .../libkeyutils1_1.5.9-8ubuntu1_amd64.deb ...
-Unpacking libkeyutils1:amd64 (1.5.9-8ubuntu1) ...
-Selecting previously unselected package libkrb5-3:amd64.
-Preparing to unpack .../libkrb5-3_1.13.2+dfsg-5ubuntu2_amd64.deb ...
-Unpacking libkrb5-3:amd64 (1.13.2+dfsg-5ubuntu2) ...
-Selecting previously unselected package libgssapi-krb5-2:amd64.
-Preparing to unpack .../libgssapi-krb5-2_1.13.2+dfsg-5ubuntu2_amd64.deb ...
-Unpacking libgssapi-krb5-2:amd64 (1.13.2+dfsg-5ubuntu2) ...
-Selecting previously unselected package libhcrypto4-heimdal:amd64.
-Preparing to unpack .../libhcrypto4-heimdal_1.7~git20150920+dfsg-4ubuntu1.16.04.1_amd64.deb ...
-Unpacking libhcrypto4-heimdal:amd64 (1.7~git20150920+dfsg-4ubuntu1.16.04.1) ...
-Selecting previously unselected package libheimbase1-heimdal:amd64.
-Preparing to unpack .../libheimbase1-heimdal_1.7~git20150920+dfsg-4ubuntu1.16.04.1_amd64.deb ...
-Unpacking libheimbase1-heimdal:amd64 (1.7~git20150920+dfsg-4ubuntu1.16.04.1) ...
-Selecting previously unselected package libwind0-heimdal:amd64.
-Preparing to unpack .../libwind0-heimdal_1.7~git20150920+dfsg-4ubuntu1.16.04.1_amd64.deb ...
-Unpacking libwind0-heimdal:amd64 (1.7~git20150920+dfsg-4ubuntu1.16.04.1) ...
-Selecting previously unselected package libhx509-5-heimdal:amd64.
-Preparing to unpack .../libhx509-5-heimdal_1.7~git20150920+dfsg-4ubuntu1.16.04.1_amd64.deb ...
-Unpacking libhx509-5-heimdal:amd64 (1.7~git20150920+dfsg-4ubuntu1.16.04.1) ...
-Selecting previously unselected package libkrb5-26-heimdal:amd64.
-Preparing to unpack .../libkrb5-26-heimdal_1.7~git20150920+dfsg-4ubuntu1.16.04.1_amd64.deb ...
-Unpacking libkrb5-26-heimdal:amd64 (1.7~git20150920+dfsg-4ubuntu1.16.04.1) ...
-Selecting previously unselected package libheimntlm0-heimdal:amd64.
-Preparing to unpack .../libheimntlm0-heimdal_1.7~git20150920+dfsg-4ubuntu1.16.04.1_amd64.deb ...
-Unpacking libheimntlm0-heimdal:amd64 (1.7~git20150920+dfsg-4ubuntu1.16.04.1) ...
-Selecting previously unselected package libgssapi3-heimdal:amd64.
-Preparing to unpack .../libgssapi3-heimdal_1.7~git20150920+dfsg-4ubuntu1.16.04.1_amd64.deb ...
-Unpacking libgssapi3-heimdal:amd64 (1.7~git20150920+dfsg-4ubuntu1.16.04.1) ...
-Selecting previously unselected package libsasl2-modules-db:amd64.
-Preparing to unpack .../libsasl2-modules-db_2.1.26.dfsg1-14build1_amd64.deb ...
-Unpacking libsasl2-modules-db:amd64 (2.1.26.dfsg1-14build1) ...
-Selecting previously unselected package libsasl2-2:amd64.
-Preparing to unpack .../libsasl2-2_2.1.26.dfsg1-14build1_amd64.deb ...
-Unpacking libsasl2-2:amd64 (2.1.26.dfsg1-14build1) ...
-Selecting previously unselected package libldap-2.4-2:amd64.
-Preparing to unpack .../libldap-2.4-2_2.4.42+dfsg-2ubuntu3.2_amd64.deb ...
-Unpacking libldap-2.4-2:amd64 (2.4.42+dfsg-2ubuntu3.2) ...
-Selecting previously unselected package librtmp1:amd64.
-Preparing to unpack .../librtmp1_2.4+20151223.gitfa8646d-1ubuntu0.1_amd64.deb ...
-Unpacking librtmp1:amd64 (2.4+20151223.gitfa8646d-1ubuntu0.1) ...
-Selecting previously unselected package libcurl3-gnutls:amd64.
-Preparing to unpack .../libcurl3-gnutls_7.47.0-1ubuntu2.5_amd64.deb ...
-Unpacking libcurl3-gnutls:amd64 (7.47.0-1ubuntu2.5) ...
-Selecting previously unselected package libedit2:amd64.
-Preparing to unpack .../libedit2_3.1-20150325-1ubuntu2_amd64.deb ...
-Unpacking libedit2:amd64 (3.1-20150325-1ubuntu2) ...
-Selecting previously unselected package libglib2.0-0:amd64.
-Preparing to unpack .../libglib2.0-0_2.48.2-0ubuntu1_amd64.deb ...
-Unpacking libglib2.0-0:amd64 (2.48.2-0ubuntu1) ...
-Selecting previously unselected package libglib2.0-data.
-Preparing to unpack .../libglib2.0-data_2.48.2-0ubuntu1_all.deb ...
-Unpacking libglib2.0-data (2.48.2-0ubuntu1) ...
-Selecting previously unselected package libicu55:amd64.
-Preparing to unpack .../libicu55_55.1-7ubuntu0.3_amd64.deb ...
-Unpacking libicu55:amd64 (55.1-7ubuntu0.3) ...
-Selecting previously unselected package libsasl2-modules:amd64.
-Preparing to unpack .../libsasl2-modules_2.1.26.dfsg1-14build1_amd64.deb ...
-Unpacking libsasl2-modules:amd64 (2.1.26.dfsg1-14build1) ...
-Selecting previously unselected package libxml2:amd64.
-Preparing to unpack .../libxml2_2.9.3+dfsg1-1ubuntu0.5_amd64.deb ...
-Unpacking libxml2:amd64 (2.9.3+dfsg1-1ubuntu0.5) ...
-Selecting previously unselected package libxmuu1:amd64.
-Preparing to unpack .../libxmuu1_2%3a1.1.2-2_amd64.deb ...
-Unpacking libxmuu1:amd64 (2:1.1.2-2) ...
-Selecting previously unselected package openssh-client.
-Preparing to unpack .../openssh-client_1%3a7.2p2-4ubuntu2.4_amd64.deb ...
-Unpacking openssh-client (1:7.2p2-4ubuntu2.4) ...
-Selecting previously unselected package rsync.
-Preparing to unpack .../rsync_3.1.1-3ubuntu1.1_amd64.deb ...
-Unpacking rsync (3.1.1-3ubuntu1.1) ...
-Selecting previously unselected package shared-mime-info.
-Preparing to unpack .../shared-mime-info_1.5-2ubuntu0.1_amd64.deb ...
-Unpacking shared-mime-info (1.5-2ubuntu0.1) ...
-Selecting previously unselected package wget.
-Preparing to unpack .../wget_1.17.1-1ubuntu1.3_amd64.deb ...
-Unpacking wget (1.17.1-1ubuntu1.3) ...
-Selecting previously unselected package xauth.
-Preparing to unpack .../xauth_1%3a1.0.9-1ubuntu2_amd64.deb ...
-Unpacking xauth (1:1.0.9-1ubuntu2) ...
-Selecting previously unselected package xdg-user-dirs.
-Preparing to unpack .../xdg-user-dirs_0.15-2ubuntu6_amd64.deb ...
-Unpacking xdg-user-dirs (0.15-2ubuntu6) ...
-Selecting previously unselected package xml-core.
-Preparing to unpack .../xml-core_0.13+nmu2_all.deb ...
-Unpacking xml-core (0.13+nmu2) ...
-Selecting previously unselected package fonts-liberation.
-Preparing to unpack .../fonts-liberation_1.07.4-1_all.deb ...
-Unpacking fonts-liberation (1.07.4-1) ...
-Selecting previously unselected package liberror-perl.
-Preparing to unpack .../liberror-perl_0.17-1.2_all.deb ...
-Unpacking liberror-perl (0.17-1.2) ...
-Selecting previously unselected package git-man.
-Preparing to unpack .../git-man_1%3a2.7.4-0ubuntu1.3_all.deb ...
-Unpacking git-man (1:2.7.4-0ubuntu1.3) ...
-Selecting previously unselected package git.
-Preparing to unpack .../git_1%3a2.7.4-0ubuntu1.3_amd64.deb ...
-Unpacking git (1:2.7.4-0ubuntu1.3) ...
-Selecting previously unselected package libcdt5.
-Preparing to unpack .../libcdt5_2.38.0-12ubuntu2.1_amd64.deb ...
-Unpacking libcdt5 (2.38.0-12ubuntu2.1) ...
-Selecting previously unselected package libcgraph6.
-Preparing to unpack .../libcgraph6_2.38.0-12ubuntu2.1_amd64.deb ...
-Unpacking libcgraph6 (2.38.0-12ubuntu2.1) ...
-Selecting previously unselected package libjpeg8:amd64.
-Preparing to unpack .../libjpeg8_8c-2ubuntu8_amd64.deb ...
-Unpacking libjpeg8:amd64 (8c-2ubuntu8) ...
-Selecting previously unselected package libtiff5:amd64.
-Preparing to unpack .../libtiff5_4.0.6-1ubuntu0.2_amd64.deb ...
-Unpacking libtiff5:amd64 (4.0.6-1ubuntu0.2) ...
-Selecting previously unselected package libvpx3:amd64.
-Preparing to unpack .../libvpx3_1.5.0-2ubuntu1_amd64.deb ...
-Unpacking libvpx3:amd64 (1.5.0-2ubuntu1) ...
-Selecting previously unselected package libxpm4:amd64.
-Preparing to unpack .../libxpm4_1%3a3.5.11-1ubuntu0.16.04.1_amd64.deb ...
-Unpacking libxpm4:amd64 (1:3.5.11-1ubuntu0.16.04.1) ...
-Selecting previously unselected package libgd3:amd64.
-Preparing to unpack .../libgd3_2.1.1-4ubuntu0.16.04.8_amd64.deb ...
-Unpacking libgd3:amd64 (2.1.1-4ubuntu0.16.04.8) ...
-Selecting previously unselected package libpixman-1-0:amd64.
-Preparing to unpack .../libpixman-1-0_0.33.6-1_amd64.deb ...
-Unpacking libpixman-1-0:amd64 (0.33.6-1) ...
-Selecting previously unselected package libxcb-render0:amd64.
-Preparing to unpack .../libxcb-render0_1.11.1-1ubuntu1_amd64.deb ...
-Unpacking libxcb-render0:amd64 (1.11.1-1ubuntu1) ...
-Selecting previously unselected package libxcb-shm0:amd64.
-Preparing to unpack .../libxcb-shm0_1.11.1-1ubuntu1_amd64.deb ...
-Unpacking libxcb-shm0:amd64 (1.11.1-1ubuntu1) ...
-Selecting previously unselected package libxrender1:amd64.
-Preparing to unpack .../libxrender1_1%3a0.9.9-0ubuntu1_amd64.deb ...
-Unpacking libxrender1:amd64 (1:0.9.9-0ubuntu1) ...
-Selecting previously unselected package libcairo2:amd64.
-Preparing to unpack .../libcairo2_1.14.6-1_amd64.deb ...
-Unpacking libcairo2:amd64 (1.14.6-1) ...
-Selecting previously unselected package libltdl7:amd64.
-Preparing to unpack .../libltdl7_2.4.6-0.1_amd64.deb ...
-Unpacking libltdl7:amd64 (2.4.6-0.1) ...
-Selecting previously unselected package libthai-data.
-Preparing to unpack .../libthai-data_0.1.24-2_all.deb ...
-Unpacking libthai-data (0.1.24-2) ...
-Selecting previously unselected package libdatrie1:amd64.
-Preparing to unpack .../libdatrie1_0.2.10-2_amd64.deb ...
-Unpacking libdatrie1:amd64 (0.2.10-2) ...
-Selecting previously unselected package libthai0:amd64.
-Preparing to unpack .../libthai0_0.1.24-2_amd64.deb ...
-Unpacking libthai0:amd64 (0.1.24-2) ...
-Selecting previously unselected package libpango-1.0-0:amd64.
-Preparing to unpack .../libpango-1.0-0_1.38.1-1_amd64.deb ...
-Unpacking libpango-1.0-0:amd64 (1.38.1-1) ...
-Selecting previously unselected package libgraphite2-3:amd64.
-Preparing to unpack .../libgraphite2-3_1.3.10-0ubuntu0.16.04.1_amd64.deb ...
-Unpacking libgraphite2-3:amd64 (1.3.10-0ubuntu0.16.04.1) ...
-Selecting previously unselected package libharfbuzz0b:amd64.
-Preparing to unpack .../libharfbuzz0b_1.0.1-1ubuntu0.1_amd64.deb ...
-Unpacking libharfbuzz0b:amd64 (1.0.1-1ubuntu0.1) ...
-Selecting previously unselected package libpangoft2-1.0-0:amd64.
-Preparing to unpack .../libpangoft2-1.0-0_1.38.1-1_amd64.deb ...
-Unpacking libpangoft2-1.0-0:amd64 (1.38.1-1) ...
-Selecting previously unselected package libpangocairo-1.0-0:amd64.
-Preparing to unpack .../libpangocairo-1.0-0_1.38.1-1_amd64.deb ...
-Unpacking libpangocairo-1.0-0:amd64 (1.38.1-1) ...
-Selecting previously unselected package libpathplan4.
-Preparing to unpack .../libpathplan4_2.38.0-12ubuntu2.1_amd64.deb ...
-Unpacking libpathplan4 (2.38.0-12ubuntu2.1) ...
-Selecting previously unselected package libgvc6.
-Preparing to unpack .../libgvc6_2.38.0-12ubuntu2.1_amd64.deb ...
-Unpacking libgvc6 (2.38.0-12ubuntu2.1) ...
-Selecting previously unselected package libgvpr2.
-Preparing to unpack .../libgvpr2_2.38.0-12ubuntu2.1_amd64.deb ...
-Unpacking libgvpr2 (2.38.0-12ubuntu2.1) ...
-Selecting previously unselected package libxt6:amd64.
-Preparing to unpack .../libxt6_1%3a1.1.5-0ubuntu1_amd64.deb ...
-Unpacking libxt6:amd64 (1:1.1.5-0ubuntu1) ...
-Selecting previously unselected package libxmu6:amd64.
 Preparing to unpack .../libxmu6_2%3a1.1.2-2_amd64.deb ...
 Unpacking libxmu6:amd64 (2:1.1.2-2) ...
 Selecting previously unselected package libxaw7:amd64.
@@ -868,3 +430,547 @@ installing: _ipyw_jlab_nb_ext_conf-0.1.0-py36he11e457_0 ...
 installing: jupyter-1.0.0-py36h9896ce5_0 ...
 installing: anaconda-5.0.1-py36hd30a520_1 ...
 installation finished.
+ ---> 095e26b2abac
+Removing intermediate container 3f8d6ab43b7d
+Step 6/10 : RUN pip install --upgrade pip &&     pip install tensorflow==1.4.0 &&     pip install keras==2.1.1 &&     conda clean -yt
+ ---> Running in 81e674000b7f
+Requirement already up-to-date: pip in /opt/conda/lib/python3.6/site-packages
+Collecting tensorflow==1.4.0
+  Downloading tensorflow-1.4.0-cp36-cp36m-manylinux1_x86_64.whl (41.2MB)
+Collecting tensorflow-tensorboard<0.5.0,>=0.4.0rc1 (from tensorflow==1.4.0)
+  Downloading tensorflow_tensorboard-0.4.0-py3-none-any.whl (1.7MB)
+Requirement already satisfied: numpy>=1.12.1 in /opt/conda/lib/python3.6/site-packages (from tensorflow==1.4.0)
+Requirement already satisfied: wheel>=0.26 in /opt/conda/lib/python3.6/site-packages (from tensorflow==1.4.0)
+Requirement already satisfied: six>=1.10.0 in /opt/conda/lib/python3.6/site-packages (from tensorflow==1.4.0)
+Collecting protobuf>=3.3.0 (from tensorflow==1.4.0)
+  Downloading protobuf-3.5.1-cp36-cp36m-manylinux1_x86_64.whl (6.4MB)
+Collecting enum34>=1.1.6 (from tensorflow==1.4.0)
+  Downloading enum34-1.1.6-py3-none-any.whl
+Collecting markdown>=2.6.8 (from tensorflow-tensorboard<0.5.0,>=0.4.0rc1->tensorflow==1.4.0)
+  Downloading Markdown-2.6.11-py2.py3-none-any.whl (78kB)
+Requirement already satisfied: werkzeug>=0.11.10 in /opt/conda/lib/python3.6/site-packages (from tensorflow-tensorboard<0.5.0,>=0.4.0rc1->tensorflow==1.4.0)
+Collecting bleach==1.5.0 (from tensorflow-tensorboard<0.5.0,>=0.4.0rc1->tensorflow==1.4.0)
+  Downloading bleach-1.5.0-py2.py3-none-any.whl
+Collecting html5lib==0.9999999 (from tensorflow-tensorboard<0.5.0,>=0.4.0rc1->tensorflow==1.4.0)
+  Downloading html5lib-0.9999999.tar.gz (889kB)
+Requirement already satisfied: setuptools in /opt/conda/lib/python3.6/site-packages (from protobuf>=3.3.0->tensorflow==1.4.0)
+Building wheels for collected packages: html5lib
+  Running setup.py bdist_wheel for html5lib: started
+  Running setup.py bdist_wheel for html5lib: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/6f/85/6c/56b8e1292c6214c4eb73b9dda50f53e8e977bf65989373c962
+Successfully built html5lib
+Installing collected packages: protobuf, markdown, html5lib, bleach, tensorflow-tensorboard, enum34, tensorflow
+  Found existing installation: html5lib 0.999999999
+    Uninstalling html5lib-0.999999999:
+      Successfully uninstalled html5lib-0.999999999
+  Found existing installation: bleach 2.0.0
+    Uninstalling bleach-2.0.0:
+      Successfully uninstalled bleach-2.0.0
+Successfully installed bleach-1.5.0 enum34-1.1.6 html5lib-0.9999999 markdown-2.6.11 protobuf-3.5.1 tensorflow-1.4.0 tensorflow-tensorboard-0.4.0
+Collecting keras==2.1.1
+  Downloading Keras-2.1.1-py2.py3-none-any.whl (302kB)
+Requirement already satisfied: numpy>=1.9.1 in /opt/conda/lib/python3.6/site-packages (from keras==2.1.1)
+Requirement already satisfied: scipy>=0.14 in /opt/conda/lib/python3.6/site-packages (from keras==2.1.1)
+Requirement already satisfied: pyyaml in /opt/conda/lib/python3.6/site-packages (from keras==2.1.1)
+Requirement already satisfied: six>=1.9.0 in /opt/conda/lib/python3.6/site-packages (from keras==2.1.1)
+Installing collected packages: keras
+Successfully installed keras-2.1.1
+Cache location: /opt/conda/pkgs
+Will remove the following tarballs:
+
+/opt/conda/pkgs
+---------------
+mkl-service-1.1.2-py36h17a0993_4.tar.bz2      10 KB
+sphinxcontrib-websupport-1.0.1-py36hb5cb234_1.tar.bz2      36 KB
+curl-7.55.1-hcb0b314_2.tar.bz2               626 KB
+patsy-0.4.1-py36ha3be15e_0.tar.bz2           323 KB
+zeromq-4.2.2-hb0b69da_1.tar.bz2              662 KB
+pycrypto-2.6.1-py36h6998063_1.tar.bz2        471 KB
+graphite2-1.3.10-hc526e54_0.tar.bz2          125 KB
+cycler-0.10.0-py36h93f1223_0.tar.bz2          13 KB
+pyzmq-16.0.2-py36h3b0cf96_2.tar.bz2          419 KB
+rope-0.10.5-py36h1f8c17e_0.tar.bz2           279 KB
+icu-58.2-h211956c_0.tar.bz2                 22.5 MB
+path.py-10.3.1-py36he0c6f6d_0.tar.bz2         51 KB
+pycodestyle-2.3.1-py36hf609f19_0.tar.bz2      55 KB
+olefile-0.44-py36h79f9f78_0.tar.bz2           52 KB
+python-3.6.3-hc9025b9_1.tar.bz2             27.0 MB
+pyparsing-2.2.0-py36hee85983_1.tar.bz2        96 KB
+wheel-0.29.0-py36he7f4e38_1.tar.bz2           88 KB
+fastcache-1.0.2-py36h5b0c431_0.tar.bz2        29 KB
+seaborn-0.8.0-py36h197244f_0.tar.bz2         333 KB
+conda-4.3.30-py36h5d9f9f4_0.tar.bz2          511 KB
+ptyprocess-0.5.2-py36h69acd42_0.tar.bz2       22 KB
+jupyterlab_launcher-0.4.0-py36h4d8058d_0.tar.bz2      17 KB
+six-1.11.0-py36h372c433_1.tar.bz2             21 KB
+navigator-updater-0.1.0-py36h14770f7_0.tar.bz2     1.2 MB
+jpeg-9b-habf39ab_1.tar.bz2                   247 KB
+libxcb-1.12-h84ff03f_3.tar.bz2               445 KB
+odo-0.5.1-py36h90ed295_0.tar.bz2             193 KB
+widgetsnbextension-3.0.2-py36hd01bb71_1.tar.bz2     2.0 MB
+contextlib2-0.5.5-py36h6c84a62_0.tar.bz2      15 KB
+lzo-2.10-h1bfc0ba_1.tar.bz2                  314 KB
+typing-3.6.2-py36h7da032a_0.tar.bz2           44 KB
+flask-0.12.2-py36hb24657c_0.tar.bz2          104 KB
+pep8-1.7.0-py36h26ade29_0.tar.bz2             51 KB
+docutils-0.14-py36hb0f60f5_0.tar.bz2         688 KB
+pixman-0.34.0-h83dc358_2.tar.bz2             597 KB
+requests-2.18.4-py36he2e5f8d_1.tar.bz2        92 KB
+prompt_toolkit-1.0.15-py36h17d85b1_0.tar.bz2     339 KB
+pyodbc-4.0.17-py36h999153c_0.tar.bz2          57 KB
+numexpr-2.6.2-py36hdd3393f_1.tar.bz2         180 KB
+jupyter_core-4.3.0-py36h357a921_0.tar.bz2      60 KB
+jupyterlab-0.27.0-py36h86377d0_2.tar.bz2     3.1 MB
+h5py-2.7.0-py36he81ebca_1.tar.bz2            1.1 MB
+mccabe-0.6.1-py36h5ad9710_1.tar.bz2           13 KB
+pycurl-7.43.0-py36h5e72054_3.tar.bz2          55 KB
+mpfr-3.1.5-h12ff648_1.tar.bz2                443 KB
+pytz-2017.2-py36hc2ccc2a_1.tar.bz2           189 KB
+harfbuzz-1.5.0-h2545bd6_0.tar.bz2            674 KB
+entrypoints-0.2.3-py36h1aec115_2.tar.bz2       9 KB
+pexpect-4.2.1-py36h3b9d41b_0.tar.bz2          71 KB
+jedi-0.10.2-py36h552def0_0.tar.bz2           248 KB
+bitarray-0.8.1-py36h5834eb8_0.tar.bz2         60 KB
+glob2-0.5-py36h2c1b292_1.tar.bz2              16 KB
+astroid-1.5.3-py36hbdb9df2_0.tar.bz2         373 KB
+mpmath-0.19-py36h8cc018b_2.tar.bz2           886 KB
+datashape-0.5.4-py36h3ad6b5c_0.tar.bz2        99 KB
+singledispatch-3.4.0.3-py36h7a266c3_0.tar.bz2      15 KB
+libsodium-1.0.13-h31c71d8_2.tar.bz2          369 KB
+libstdcxx-ng-7.2.0-h7a57d05_2.tar.bz2        2.5 MB
+zlib-1.2.11-hfbfcf68_1.tar.bz2               101 KB
+cffi-1.10.0-py36had8d393_1.tar.bz2           206 KB
+ipython-6.1.0-py36hc72a948_1.tar.bz2        1023 KB
+heapdict-1.0.0-py36h79797d7_0.tar.bz2          7 KB
+urllib3-1.22-py36hbe7ace6_0.tar.bz2          155 KB
+clyent-1.2.2-py36h7e57e65_1.tar.bz2           18 KB
+imageio-2.2.0-py36he555465_0.tar.bz2         3.2 MB
+html5lib-0.999999999-py36h2cfc398_0.tar.bz2     178 KB
+gmpy2-2.0.8-py36h55090d7_1.tar.bz2           165 KB
+pycparser-2.18-py36hf9f622e_1.tar.bz2        169 KB
+sortedcollections-0.5.3-py36h3c761f9_0.tar.bz2      14 KB
+mkl-2018.0.0-hb491cac_4.tar.bz2            174.4 MB
+ipykernel-4.6.1-py36hbf841aa_0.tar.bz2       139 KB
+traitlets-4.3.2-py36h674d592_0.tar.bz2       131 KB
+scikit-learn-0.19.1-py36h7aa7ec6_0.tar.bz2     5.2 MB
+qtpy-1.3.1-py36h3691cc8_0.tar.bz2             41 KB
+pyqt-5.6.0-py36h0386399_5.tar.bz2            5.5 MB
+wcwidth-0.1.7-py36hdf4376a_0.tar.bz2          25 KB
+conda-env-2.6.0-h36134e3_1.tar.bz2             2 KB
+backports.shutil_get_terminal_size-1.0.0-py36hfea85ff_2.tar.bz2       8 KB
+sortedcontainers-1.5.7-py36hdf89491_0.tar.bz2      45 KB
+locket-0.2.0-py36h787c0ad_1.tar.bz2            8 KB
+sphinxcontrib-1.0-py36h6d0f590_1.tar.bz2       3 KB
+libedit-3.1-heed3624_0.tar.bz2               171 KB
+packaging-16.8-py36ha668100_1.tar.bz2         31 KB
+jdcal-1.3-py36h4c697fb_0.tar.bz2              11 KB
+pillow-4.2.1-py36h9119f52_0.tar.bz2          548 KB
+gst-plugins-base-1.12.2-he3457e5_0.tar.bz2     4.9 MB
+libtiff-4.0.8-h90200ff_9.tar.bz2             579 KB
+yaml-0.1.7-h96e3832_1.tar.bz2                 84 KB
+numpydoc-0.7.0-py36h18f165f_0.tar.bz2         38 KB
+pytest-3.2.1-py36h11ad3bb_1.tar.bz2          282 KB
+nbconvert-5.3.1-py36hb41ffb7_0.tar.bz2       398 KB
+idna-2.6-py36h82fb2a8_1.tar.bz2              122 KB
+ply-3.10-py36hed35086_0.tar.bz2               79 KB
+markupsafe-1.0-py36hd9260cd_1.tar.bz2         24 KB
+mpc-1.0.3-hf803216_4.tar.bz2                  94 KB
+conda-build-3.0.27-py36h940a66d_0.tar.bz2     376 KB
+notebook-5.0.0-py36h0b20546_2.tar.bz2        5.7 MB
+zict-0.1.3-py36h3a3bf81_0.tar.bz2             18 KB
+distributed-1.19.1-py36h25f3894_0.tar.bz2     672 KB
+libxslt-1.1.29-hcf9102b_5.tar.bz2            533 KB
+pkginfo-1.4.1-py36h215d178_1.tar.bz2          39 KB
+itsdangerous-0.24-py36h93cc618_1.tar.bz2      20 KB
+jupyter_console-5.2.0-py36he59e554_1.tar.bz2      35 KB
+conda-verify-2.0.0-py36h98955d8_0.tar.bz2      20 KB
+gmp-6.1.2-hb3b607b_0.tar.bz2                 744 KB
+hdf5-1.10.1-hb0523eb_0.tar.bz2               5.3 MB
+jbig-2.1-hdba287a_0.tar.bz2                   41 KB
+webencodings-0.5.1-py36h800622e_1.tar.bz2      19 KB
+lxml-4.1.0-py36h5b66e50_0.tar.bz2            1.5 MB
+bkcharts-0.2-py36h735825a_0.tar.bz2          127 KB
+openssl-1.0.2l-h077ae2c_5.tar.bz2            3.4 MB
+libtool-2.4.6-hd50d1a6_0.tar.bz2             515 KB
+libpng-1.6.32-hda9c8bc_2.tar.bz2             335 KB
+qt-5.6.2-h974d657_12.tar.bz2                44.5 MB
+pyopenssl-17.2.0-py36h5cc804b_0.tar.bz2       78 KB
+pango-1.40.11-h8191d47_0.tar.bz2             527 KB
+jinja2-2.9.6-py36h489bce4_1.tar.bz2          362 KB
+xlsxwriter-1.0.2-py36h3de1aca_0.tar.bz2      202 KB
+babel-2.5.0-py36h7d14adf_0.tar.bz2           4.7 MB
+werkzeug-0.12.2-py36hc703753_0.tar.bz2       413 KB
+get_terminal_size-1.0.0-haa9412d_0.tar.bz2       3 KB
+toolz-0.8.2-py36h81f2dff_0.tar.bz2            91 KB
+bottleneck-1.2.1-py36haac1ea0_0.tar.bz2      127 KB
+scikit-image-0.13.0-py36had3c07a_1.tar.bz2    23.0 MB
+flask-cors-3.0.3-py36h2d857d3_0.tar.bz2       20 KB
+sqlalchemy-1.1.13-py36hfb5efd7_0.tar.bz2     1.5 MB
+imagesize-0.7.1-py36h52d8127_0.tar.bz2         6 KB
+filelock-2.0.12-py36hacfa1f5_0.tar.bz2        11 KB
+spyder-3.2.4-py36hbe6152b_0.tar.bz2          2.5 MB
+nltk-3.2.4-py36h1a0979f_0.tar.bz2            2.0 MB
+chardet-3.0.4-py36h0f667ec_1.tar.bz2         190 KB
+pandas-0.20.3-py36h842e28d_2.tar.bz2         9.9 MB
+networkx-2.0-py36h7e96fb8_0.tar.bz2          1.8 MB
+boto-2.48.0-py36h6e4cd66_1.tar.bz2           1.5 MB
+tblib-1.3.2-py36h34cf8b6_0.tar.bz2            16 KB
+anaconda-client-1.6.5-py36h19c0dcd_0.tar.bz2     132 KB
+terminado-0.6-py36ha25a19f_0.tar.bz2          21 KB
+libgfortran-ng-7.2.0-h9f7466a_2.tar.bz2      349 KB
+gevent-1.2.2-py36h2fe25dc_0.tar.bz2          773 KB
+cryptography-2.0.3-py36ha225213_1.tar.bz2     591 KB
+nose-1.3.7-py36hcdf7029_2.tar.bz2            214 KB
+qtconsole-4.3.1-py36h8f73b5b_0.tar.bz2       150 KB
+astropy-2.0.2-py36ha51211e_4.tar.bz2         6.9 MB
+sphinx-1.6.3-py36he5f0bdb_0.tar.bz2          1.6 MB
+ipython_genutils-0.2.0-py36hb52b0d5_0.tar.bz2      39 KB
+statsmodels-0.8.0-py36h8533d0b_0.tar.bz2     6.4 MB
+beautifulsoup4-4.6.0-py36h49b8c8c_1.tar.bz2     133 KB
+multipledispatch-0.4.9-py36h41da3fb_0.tar.bz2      15 KB
+dask-0.15.3-py36hdc2c8aa_0.tar.bz2             3 KB
+cairo-1.14.10-haa5651f_5.tar.bz2             1.4 MB
+libffi-3.2.1-h4deb6c0_3.tar.bz2               43 KB
+libssh2-1.8.0-h8c220ad_2.tar.bz2             243 KB
+llvmlite-0.20.0-py36_0.tar.bz2              11.2 MB
+pycosat-0.6.2-py36h1a0ea17_1.tar.bz2         104 KB
+backports-1.0-py36hfa02d7e_1.tar.bz2           3 KB
+glib-2.53.6-hc861d11_1.tar.bz2               8.4 MB
+fontconfig-2.12.4-h88586e7_1.tar.bz2         282 KB
+numba-0.35.0-np113py36_10.tar.bz2            2.6 MB
+pyflakes-1.6.0-py36h7bd6a15_0.tar.bz2         85 KB
+pywavelets-0.5.2-py36he602eb0_0.tar.bz2      4.0 MB
+xlwt-1.3.0-py36h7b00a1f_0.tar.bz2            162 KB
+pylint-1.7.4-py36hb9d4533_0.tar.bz2          690 KB
+lazy-object-proxy-1.3.1-py36h10fcdad_0.tar.bz2      29 KB
+greenlet-0.4.12-py36h2d503a6_0.tar.bz2        19 KB
+bzip2-1.0.6-h0376d23_1.tar.bz2               414 KB
+anaconda-navigator-1.6.9-py36h11ddaaa_0.tar.bz2     4.0 MB
+nbformat-4.4.0-py36h31c9010_0.tar.bz2        137 KB
+wrapt-1.10.11-py36h28b7045_0.tar.bz2          45 KB
+anaconda-5.0.1-py36hd30a520_1.tar.bz2         13 KB
+jupyter_client-5.1.0-py36h614e9ea_0.tar.bz2     117 KB
+testpath-0.3.1-py36h8cadb63_0.tar.bz2         89 KB
+anaconda-project-0.8.0-py36h29abdf5_0.tar.bz2     209 KB
+dbus-1.10.22-h3b5a359_0.tar.bz2              544 KB
+pysocks-1.6.7-py36hd97a5b1_1.tar.bz2          22 KB
+sympy-1.1.1-py36hc6d1c1c_0.tar.bz2           7.0 MB
+unicodecsv-0.14.1-py36ha668878_0.tar.bz2      25 KB
+sip-4.18.1-py36h51ed4ed_2.tar.bz2            277 KB
+python-dateutil-2.6.1-py36h88d3b88_1.tar.bz2     237 KB
+pytables-3.4.2-py36h3b5282a_2.tar.bz2        2.4 MB
+ca-certificates-2017.08.26-h1d4fec5_0.tar.bz2     263 KB
+xlrd-1.1.0-py36h1db9f0c_1.tar.bz2            194 KB
+simplegeneric-0.8.1-py36h2cb9092_0.tar.bz2       9 KB
+jsonschema-2.6.0-py36h006f8b5_0.tar.bz2       62 KB
+cytoolz-0.8.2-py36h708bfd4_0.tar.bz2         364 KB
+unixodbc-2.3.4-hc36303a_1.tar.bz2            316 KB
+freetype-2.8-h52ed37b_0.tar.bz2              803 KB
+py-1.4.34-py36h0712aa3_1.tar.bz2             134 KB
+intel-openmp-2018.0.0-h15fc484_7.tar.bz2     617 KB
+setuptools-36.5.0-py36he42e2e1_0.tar.bz2     512 KB
+isort-4.2.15-py36had401c0_0.tar.bz2           57 KB
+patchelf-0.9-hf79760b_2.tar.bz2               69 KB
+psutil-5.4.0-py36h84c53db_0.tar.bz2          296 KB
+dask-core-0.15.3-py36h10e6167_0.tar.bz2      920 KB
+colorama-0.3.9-py36h489cec4_0.tar.bz2         23 KB
+tornado-4.5.2-py36h1283b2a_0.tar.bz2         616 KB
+ncurses-6.0-h06874d7_1.tar.bz2               907 KB
+_ipyw_jlab_nb_ext_conf-0.1.0-py36he11e457_0.tar.bz2       4 KB
+xz-5.2.3-h2bcbf08_1.tar.bz2                  356 KB
+matplotlib-2.1.0-py36hba5de38_0.tar.bz2      6.6 MB
+pathlib2-2.3.0-py36h49efa8e_0.tar.bz2         32 KB
+expat-2.2.4-hc00ebd1_1.tar.bz2               185 KB
+msgpack-python-0.4.8-py36hec4c5d1_0.tar.bz2      90 KB
+gstreamer-1.12.2-h4f93127_0.tar.bz2          3.6 MB
+pickleshare-0.7.4-py36h63277f8_0.tar.bz2      11 KB
+pip-9.0.1-py36h8ec8b28_3.tar.bz2             1.7 MB
+ipywidgets-7.0.0-py36h7b55c3a_0.tar.bz2       91 KB
+decorator-4.1.2-py36hd076ac8_0.tar.bz2        15 KB
+partd-0.3.8-py36h36fd896_0.tar.bz2            31 KB
+tk-8.6.7-h5979e9b_1.tar.bz2                  3.2 MB
+numpy-1.13.3-py36ha12f23b_0.tar.bz2          3.9 MB
+snowballstemmer-1.2.1-py36h6febd40_0.tar.bz2      85 KB
+openpyxl-2.4.8-py36h41dd2a8_1.tar.bz2        295 KB
+bokeh-0.12.10-py36hbb0e44a_0.tar.bz2         4.2 MB
+cloudpickle-0.4.0-py36h30f8c20_0.tar.bz2      24 KB
+pygments-2.2.0-py36h0d3125c_0.tar.bz2        1.3 MB
+ruamel_yaml-0.11.14-py36ha2fb22d_2.tar.bz2     210 KB
+click-6.7-py36h5253387_0.tar.bz2             104 KB
+et_xmlfile-1.0.1-py36hd6bccc3_0.tar.bz2       20 KB
+cython-0.26.1-py36h21c49d0_0.tar.bz2         3.0 MB
+jupyter-1.0.0-py36h9896ce5_0.tar.bz2           4 KB
+pandocfilters-1.4.2-py36ha6701b7_1.tar.bz2      12 KB
+mistune-0.7.4-py36hbab8784_0.tar.bz2          52 KB
+libgcc-ng-7.2.0-h7cc24e2_2.tar.bz2           6.1 MB
+alabaster-0.7.10-py36h306e16b_0.tar.bz2       15 KB
+pandoc-1.19.2.1-hea2e7c5_1.tar.bz2          17.8 MB
+certifi-2017.7.27.1-py36h8b7b77e_0.tar.bz2     205 KB
+qtawesome-0.4.4-py36h609ed8c_0.tar.bz2       159 KB
+asn1crypto-0.22.0-py36h265ca7c_1.tar.bz2     149 KB
+readline-7.0-hac23ff0_3.tar.bz2              387 KB
+pcre-8.41-hc71a17e_0.tar.bz2                 250 KB
+libxml2-2.9.4-h6b072ca_5.tar.bz2             2.0 MB
+bleach-2.0.0-py36h688b259_0.tar.bz2           26 KB
+scipy-0.19.1-py36h9976243_3.tar.bz2         17.4 MB
+blaze-0.11.3-py36h4e06776_0.tar.bz2          605 KB
+sqlite-3.20.1-h6d8b0f3_1.tar.bz2             1.5 MB
+pyyaml-3.12-py36hafb9ca4_1.tar.bz2           159 KB
+
+---------------------------------------------------
+Total:                                     524.4 MB
+
+Removed mkl-service-1.1.2-py36h17a0993_4.tar.bz2
+Removed sphinxcontrib-websupport-1.0.1-py36hb5cb234_1.tar.bz2
+Removed curl-7.55.1-hcb0b314_2.tar.bz2
+Removed patsy-0.4.1-py36ha3be15e_0.tar.bz2
+Removed zeromq-4.2.2-hb0b69da_1.tar.bz2
+Removed pycrypto-2.6.1-py36h6998063_1.tar.bz2
+Removed graphite2-1.3.10-hc526e54_0.tar.bz2
+Removed cycler-0.10.0-py36h93f1223_0.tar.bz2
+Removed pyzmq-16.0.2-py36h3b0cf96_2.tar.bz2
+Removed rope-0.10.5-py36h1f8c17e_0.tar.bz2
+Removed icu-58.2-h211956c_0.tar.bz2
+Removed path.py-10.3.1-py36he0c6f6d_0.tar.bz2
+Removed pycodestyle-2.3.1-py36hf609f19_0.tar.bz2
+Removed olefile-0.44-py36h79f9f78_0.tar.bz2
+Removed python-3.6.3-hc9025b9_1.tar.bz2
+Removed pyparsing-2.2.0-py36hee85983_1.tar.bz2
+Removed wheel-0.29.0-py36he7f4e38_1.tar.bz2
+Removed fastcache-1.0.2-py36h5b0c431_0.tar.bz2
+Removed seaborn-0.8.0-py36h197244f_0.tar.bz2
+Removed conda-4.3.30-py36h5d9f9f4_0.tar.bz2
+Removed ptyprocess-0.5.2-py36h69acd42_0.tar.bz2
+Removed jupyterlab_launcher-0.4.0-py36h4d8058d_0.tar.bz2
+Removed six-1.11.0-py36h372c433_1.tar.bz2
+Removed navigator-updater-0.1.0-py36h14770f7_0.tar.bz2
+Removed jpeg-9b-habf39ab_1.tar.bz2
+Removed libxcb-1.12-h84ff03f_3.tar.bz2
+Removed odo-0.5.1-py36h90ed295_0.tar.bz2
+Removed widgetsnbextension-3.0.2-py36hd01bb71_1.tar.bz2
+Removed contextlib2-0.5.5-py36h6c84a62_0.tar.bz2
+Removed lzo-2.10-h1bfc0ba_1.tar.bz2
+Removed typing-3.6.2-py36h7da032a_0.tar.bz2
+Removed flask-0.12.2-py36hb24657c_0.tar.bz2
+Removed pep8-1.7.0-py36h26ade29_0.tar.bz2
+Removed docutils-0.14-py36hb0f60f5_0.tar.bz2
+Removed pixman-0.34.0-h83dc358_2.tar.bz2
+Removed requests-2.18.4-py36he2e5f8d_1.tar.bz2
+Removed prompt_toolkit-1.0.15-py36h17d85b1_0.tar.bz2
+Removed pyodbc-4.0.17-py36h999153c_0.tar.bz2
+Removed numexpr-2.6.2-py36hdd3393f_1.tar.bz2
+Removed jupyter_core-4.3.0-py36h357a921_0.tar.bz2
+Removed jupyterlab-0.27.0-py36h86377d0_2.tar.bz2
+Removed h5py-2.7.0-py36he81ebca_1.tar.bz2
+Removed mccabe-0.6.1-py36h5ad9710_1.tar.bz2
+Removed pycurl-7.43.0-py36h5e72054_3.tar.bz2
+Removed mpfr-3.1.5-h12ff648_1.tar.bz2
+Removed pytz-2017.2-py36hc2ccc2a_1.tar.bz2
+Removed harfbuzz-1.5.0-h2545bd6_0.tar.bz2
+Removed entrypoints-0.2.3-py36h1aec115_2.tar.bz2
+Removed pexpect-4.2.1-py36h3b9d41b_0.tar.bz2
+Removed jedi-0.10.2-py36h552def0_0.tar.bz2
+Removed bitarray-0.8.1-py36h5834eb8_0.tar.bz2
+Removed glob2-0.5-py36h2c1b292_1.tar.bz2
+Removed astroid-1.5.3-py36hbdb9df2_0.tar.bz2
+Removed mpmath-0.19-py36h8cc018b_2.tar.bz2
+Removed datashape-0.5.4-py36h3ad6b5c_0.tar.bz2
+Removed singledispatch-3.4.0.3-py36h7a266c3_0.tar.bz2
+Removed libsodium-1.0.13-h31c71d8_2.tar.bz2
+Removed libstdcxx-ng-7.2.0-h7a57d05_2.tar.bz2
+Removed zlib-1.2.11-hfbfcf68_1.tar.bz2
+Removed cffi-1.10.0-py36had8d393_1.tar.bz2
+Removed ipython-6.1.0-py36hc72a948_1.tar.bz2
+Removed heapdict-1.0.0-py36h79797d7_0.tar.bz2
+Removed urllib3-1.22-py36hbe7ace6_0.tar.bz2
+Removed clyent-1.2.2-py36h7e57e65_1.tar.bz2
+Removed imageio-2.2.0-py36he555465_0.tar.bz2
+Removed html5lib-0.999999999-py36h2cfc398_0.tar.bz2
+Removed gmpy2-2.0.8-py36h55090d7_1.tar.bz2
+Removed pycparser-2.18-py36hf9f622e_1.tar.bz2
+Removed sortedcollections-0.5.3-py36h3c761f9_0.tar.bz2
+Removed mkl-2018.0.0-hb491cac_4.tar.bz2
+Removed ipykernel-4.6.1-py36hbf841aa_0.tar.bz2
+Removed traitlets-4.3.2-py36h674d592_0.tar.bz2
+Removed scikit-learn-0.19.1-py36h7aa7ec6_0.tar.bz2
+Removed qtpy-1.3.1-py36h3691cc8_0.tar.bz2
+Removed pyqt-5.6.0-py36h0386399_5.tar.bz2
+Removed wcwidth-0.1.7-py36hdf4376a_0.tar.bz2
+Removed conda-env-2.6.0-h36134e3_1.tar.bz2
+Removed backports.shutil_get_terminal_size-1.0.0-py36hfea85ff_2.tar.bz2
+Removed sortedcontainers-1.5.7-py36hdf89491_0.tar.bz2
+Removed locket-0.2.0-py36h787c0ad_1.tar.bz2
+Removed sphinxcontrib-1.0-py36h6d0f590_1.tar.bz2
+Removed libedit-3.1-heed3624_0.tar.bz2
+Removed packaging-16.8-py36ha668100_1.tar.bz2
+Removed jdcal-1.3-py36h4c697fb_0.tar.bz2
+Removed pillow-4.2.1-py36h9119f52_0.tar.bz2
+Removed gst-plugins-base-1.12.2-he3457e5_0.tar.bz2
+Removed libtiff-4.0.8-h90200ff_9.tar.bz2
+Removed yaml-0.1.7-h96e3832_1.tar.bz2
+Removed numpydoc-0.7.0-py36h18f165f_0.tar.bz2
+Removed pytest-3.2.1-py36h11ad3bb_1.tar.bz2
+Removed nbconvert-5.3.1-py36hb41ffb7_0.tar.bz2
+Removed idna-2.6-py36h82fb2a8_1.tar.bz2
+Removed ply-3.10-py36hed35086_0.tar.bz2
+Removed markupsafe-1.0-py36hd9260cd_1.tar.bz2
+Removed mpc-1.0.3-hf803216_4.tar.bz2
+Removed conda-build-3.0.27-py36h940a66d_0.tar.bz2
+Removed notebook-5.0.0-py36h0b20546_2.tar.bz2
+Removed zict-0.1.3-py36h3a3bf81_0.tar.bz2
+Removed distributed-1.19.1-py36h25f3894_0.tar.bz2
+Removed libxslt-1.1.29-hcf9102b_5.tar.bz2
+Removed pkginfo-1.4.1-py36h215d178_1.tar.bz2
+Removed itsdangerous-0.24-py36h93cc618_1.tar.bz2
+Removed jupyter_console-5.2.0-py36he59e554_1.tar.bz2
+Removed conda-verify-2.0.0-py36h98955d8_0.tar.bz2
+Removed gmp-6.1.2-hb3b607b_0.tar.bz2
+Removed hdf5-1.10.1-hb0523eb_0.tar.bz2
+Removed jbig-2.1-hdba287a_0.tar.bz2
+Removed webencodings-0.5.1-py36h800622e_1.tar.bz2
+Removed lxml-4.1.0-py36h5b66e50_0.tar.bz2
+Removed bkcharts-0.2-py36h735825a_0.tar.bz2
+Removed openssl-1.0.2l-h077ae2c_5.tar.bz2
+Removed libtool-2.4.6-hd50d1a6_0.tar.bz2
+Removed libpng-1.6.32-hda9c8bc_2.tar.bz2
+Removed qt-5.6.2-h974d657_12.tar.bz2
+Removed pyopenssl-17.2.0-py36h5cc804b_0.tar.bz2
+Removed pango-1.40.11-h8191d47_0.tar.bz2
+Removed jinja2-2.9.6-py36h489bce4_1.tar.bz2
+Removed xlsxwriter-1.0.2-py36h3de1aca_0.tar.bz2
+Removed babel-2.5.0-py36h7d14adf_0.tar.bz2
+Removed werkzeug-0.12.2-py36hc703753_0.tar.bz2
+Removed get_terminal_size-1.0.0-haa9412d_0.tar.bz2
+Removed toolz-0.8.2-py36h81f2dff_0.tar.bz2
+Removed bottleneck-1.2.1-py36haac1ea0_0.tar.bz2
+Removed scikit-image-0.13.0-py36had3c07a_1.tar.bz2
+Removed flask-cors-3.0.3-py36h2d857d3_0.tar.bz2
+Removed sqlalchemy-1.1.13-py36hfb5efd7_0.tar.bz2
+Removed imagesize-0.7.1-py36h52d8127_0.tar.bz2
+Removed filelock-2.0.12-py36hacfa1f5_0.tar.bz2
+Removed spyder-3.2.4-py36hbe6152b_0.tar.bz2
+Removed nltk-3.2.4-py36h1a0979f_0.tar.bz2
+Removed chardet-3.0.4-py36h0f667ec_1.tar.bz2
+Removed pandas-0.20.3-py36h842e28d_2.tar.bz2
+Removed networkx-2.0-py36h7e96fb8_0.tar.bz2
+Removed boto-2.48.0-py36h6e4cd66_1.tar.bz2
+Removed tblib-1.3.2-py36h34cf8b6_0.tar.bz2
+Removed anaconda-client-1.6.5-py36h19c0dcd_0.tar.bz2
+Removed terminado-0.6-py36ha25a19f_0.tar.bz2
+Removed libgfortran-ng-7.2.0-h9f7466a_2.tar.bz2
+Removed gevent-1.2.2-py36h2fe25dc_0.tar.bz2
+Removed cryptography-2.0.3-py36ha225213_1.tar.bz2
+Removed nose-1.3.7-py36hcdf7029_2.tar.bz2
+Removed qtconsole-4.3.1-py36h8f73b5b_0.tar.bz2
+Removed astropy-2.0.2-py36ha51211e_4.tar.bz2
+Removed sphinx-1.6.3-py36he5f0bdb_0.tar.bz2
+Removed ipython_genutils-0.2.0-py36hb52b0d5_0.tar.bz2
+Removed statsmodels-0.8.0-py36h8533d0b_0.tar.bz2
+Removed beautifulsoup4-4.6.0-py36h49b8c8c_1.tar.bz2
+Removed multipledispatch-0.4.9-py36h41da3fb_0.tar.bz2
+Removed dask-0.15.3-py36hdc2c8aa_0.tar.bz2
+Removed cairo-1.14.10-haa5651f_5.tar.bz2
+Removed libffi-3.2.1-h4deb6c0_3.tar.bz2
+Removed libssh2-1.8.0-h8c220ad_2.tar.bz2
+Removed llvmlite-0.20.0-py36_0.tar.bz2
+Removed pycosat-0.6.2-py36h1a0ea17_1.tar.bz2
+Removed backports-1.0-py36hfa02d7e_1.tar.bz2
+Removed glib-2.53.6-hc861d11_1.tar.bz2
+Removed fontconfig-2.12.4-h88586e7_1.tar.bz2
+Removed numba-0.35.0-np113py36_10.tar.bz2
+Removed pyflakes-1.6.0-py36h7bd6a15_0.tar.bz2
+Removed pywavelets-0.5.2-py36he602eb0_0.tar.bz2
+Removed xlwt-1.3.0-py36h7b00a1f_0.tar.bz2
+Removed pylint-1.7.4-py36hb9d4533_0.tar.bz2
+Removed lazy-object-proxy-1.3.1-py36h10fcdad_0.tar.bz2
+Removed greenlet-0.4.12-py36h2d503a6_0.tar.bz2
+Removed bzip2-1.0.6-h0376d23_1.tar.bz2
+Removed anaconda-navigator-1.6.9-py36h11ddaaa_0.tar.bz2
+Removed nbformat-4.4.0-py36h31c9010_0.tar.bz2
+Removed wrapt-1.10.11-py36h28b7045_0.tar.bz2
+Removed anaconda-5.0.1-py36hd30a520_1.tar.bz2
+Removed jupyter_client-5.1.0-py36h614e9ea_0.tar.bz2
+Removed testpath-0.3.1-py36h8cadb63_0.tar.bz2
+Removed anaconda-project-0.8.0-py36h29abdf5_0.tar.bz2
+Removed dbus-1.10.22-h3b5a359_0.tar.bz2
+Removed pysocks-1.6.7-py36hd97a5b1_1.tar.bz2
+Removed sympy-1.1.1-py36hc6d1c1c_0.tar.bz2
+Removed unicodecsv-0.14.1-py36ha668878_0.tar.bz2
+Removed sip-4.18.1-py36h51ed4ed_2.tar.bz2
+Removed python-dateutil-2.6.1-py36h88d3b88_1.tar.bz2
+Removed pytables-3.4.2-py36h3b5282a_2.tar.bz2
+Removed ca-certificates-2017.08.26-h1d4fec5_0.tar.bz2
+Removed xlrd-1.1.0-py36h1db9f0c_1.tar.bz2
+Removed simplegeneric-0.8.1-py36h2cb9092_0.tar.bz2
+Removed jsonschema-2.6.0-py36h006f8b5_0.tar.bz2
+Removed cytoolz-0.8.2-py36h708bfd4_0.tar.bz2
+Removed unixodbc-2.3.4-hc36303a_1.tar.bz2
+Removed freetype-2.8-h52ed37b_0.tar.bz2
+Removed py-1.4.34-py36h0712aa3_1.tar.bz2
+Removed intel-openmp-2018.0.0-h15fc484_7.tar.bz2
+Removed setuptools-36.5.0-py36he42e2e1_0.tar.bz2
+Removed isort-4.2.15-py36had401c0_0.tar.bz2
+Removed patchelf-0.9-hf79760b_2.tar.bz2
+Removed psutil-5.4.0-py36h84c53db_0.tar.bz2
+Removed dask-core-0.15.3-py36h10e6167_0.tar.bz2
+Removed colorama-0.3.9-py36h489cec4_0.tar.bz2
+Removed tornado-4.5.2-py36h1283b2a_0.tar.bz2
+Removed ncurses-6.0-h06874d7_1.tar.bz2
+Removed _ipyw_jlab_nb_ext_conf-0.1.0-py36he11e457_0.tar.bz2
+Removed xz-5.2.3-h2bcbf08_1.tar.bz2
+Removed matplotlib-2.1.0-py36hba5de38_0.tar.bz2
+Removed pathlib2-2.3.0-py36h49efa8e_0.tar.bz2
+Removed expat-2.2.4-hc00ebd1_1.tar.bz2
+Removed msgpack-python-0.4.8-py36hec4c5d1_0.tar.bz2
+Removed gstreamer-1.12.2-h4f93127_0.tar.bz2
+Removed pickleshare-0.7.4-py36h63277f8_0.tar.bz2
+Removed pip-9.0.1-py36h8ec8b28_3.tar.bz2
+Removed ipywidgets-7.0.0-py36h7b55c3a_0.tar.bz2
+Removed decorator-4.1.2-py36hd076ac8_0.tar.bz2
+Removed partd-0.3.8-py36h36fd896_0.tar.bz2
+Removed tk-8.6.7-h5979e9b_1.tar.bz2
+Removed numpy-1.13.3-py36ha12f23b_0.tar.bz2
+Removed snowballstemmer-1.2.1-py36h6febd40_0.tar.bz2
+Removed openpyxl-2.4.8-py36h41dd2a8_1.tar.bz2
+Removed bokeh-0.12.10-py36hbb0e44a_0.tar.bz2
+Removed cloudpickle-0.4.0-py36h30f8c20_0.tar.bz2
+Removed pygments-2.2.0-py36h0d3125c_0.tar.bz2
+Removed ruamel_yaml-0.11.14-py36ha2fb22d_2.tar.bz2
+Removed click-6.7-py36h5253387_0.tar.bz2
+Removed et_xmlfile-1.0.1-py36hd6bccc3_0.tar.bz2
+Removed cython-0.26.1-py36h21c49d0_0.tar.bz2
+Removed jupyter-1.0.0-py36h9896ce5_0.tar.bz2
+Removed pandocfilters-1.4.2-py36ha6701b7_1.tar.bz2
+Removed mistune-0.7.4-py36hbab8784_0.tar.bz2
+Removed libgcc-ng-7.2.0-h7cc24e2_2.tar.bz2
+Removed alabaster-0.7.10-py36h306e16b_0.tar.bz2
+Removed pandoc-1.19.2.1-hea2e7c5_1.tar.bz2
+Removed certifi-2017.7.27.1-py36h8b7b77e_0.tar.bz2
+Removed qtawesome-0.4.4-py36h609ed8c_0.tar.bz2
+Removed asn1crypto-0.22.0-py36h265ca7c_1.tar.bz2
+Removed readline-7.0-hac23ff0_3.tar.bz2
+Removed pcre-8.41-hc71a17e_0.tar.bz2
+Removed libxml2-2.9.4-h6b072ca_5.tar.bz2
+Removed bleach-2.0.0-py36h688b259_0.tar.bz2
+Removed scipy-0.19.1-py36h9976243_3.tar.bz2
+Removed blaze-0.11.3-py36h4e06776_0.tar.bz2
+Removed sqlite-3.20.1-h6d8b0f3_1.tar.bz2
+Removed pyyaml-3.12-py36hafb9ca4_1.tar.bz2
+ ---> e88d2c705a78
+Removing intermediate container 81e674000b7f
+Step 7/10 : VOLUME /src
+ ---> Running in a4d2df44c694
+ ---> c9cbf216e485
+Removing intermediate container a4d2df44c694
+Step 8/10 : WORKDIR /src
+ ---> a429dbd318be
+Removing intermediate container eec82bac6a8d
+Step 9/10 : EXPOSE 8888
+ ---> Running in 32e4f1c3df79
+ ---> 68400ffabdde
+Removing intermediate container 32e4f1c3df79
+Step 10/10 : CMD jupyter notebook --port=8888 --ip=0.0.0.0 --allow-root
+ ---> Running in 6b3c0a5e10a5
+ ---> 53e6269119a0
+Removing intermediate container 6b3c0a5e10a5
+Successfully built 53e6269119a0
