@@ -1,0 +1,923 @@
+installing: filelock-2.0.12-py36hacfa1f5_0 ...
+installing: glob2-0.5-py36h2c1b292_1 ...
+installing: gmpy2-2.0.8-py36h55090d7_1 ...
+installing: greenlet-0.4.12-py36h2d503a6_0 ...
+installing: heapdict-1.0.0-py36h79797d7_0 ...
+installing: idna-2.6-py36h82fb2a8_1 ...
+installing: imagesize-0.7.1-py36h52d8127_0 ...
+installing: ipython_genutils-0.2.0-py36hb52b0d5_0 ...
+installing: itsdangerous-0.24-py36h93cc618_1 ...
+installing: jdcal-1.3-py36h4c697fb_0 ...
+installing: jedi-0.10.2-py36h552def0_0 ...
+installing: lazy-object-proxy-1.3.1-py36h10fcdad_0 ...
+installing: llvmlite-0.20.0-py36_0 ...
+installing: locket-0.2.0-py36h787c0ad_1 ...
+installing: lxml-4.1.0-py36h5b66e50_0 ...
+installing: markupsafe-1.0-py36hd9260cd_1 ...
+installing: mccabe-0.6.1-py36h5ad9710_1 ...
+installing: mistune-0.7.4-py36hbab8784_0 ...
+installing: mkl-service-1.1.2-py36h17a0993_4 ...
+installing: mpmath-0.19-py36h8cc018b_2 ...
+installing: msgpack-python-0.4.8-py36hec4c5d1_0 ...
+installing: multipledispatch-0.4.9-py36h41da3fb_0 ...
+installing: numpy-1.13.3-py36ha12f23b_0 ...
+installing: olefile-0.44-py36h79f9f78_0 ...
+installing: pandocfilters-1.4.2-py36ha6701b7_1 ...
+installing: path.py-10.3.1-py36he0c6f6d_0 ...
+installing: pep8-1.7.0-py36h26ade29_0 ...
+installing: pickleshare-0.7.4-py36h63277f8_0 ...
+installing: pkginfo-1.4.1-py36h215d178_1 ...
+installing: ply-3.10-py36hed35086_0 ...
+installing: psutil-5.4.0-py36h84c53db_0 ...
+installing: ptyprocess-0.5.2-py36h69acd42_0 ...
+installing: py-1.4.34-py36h0712aa3_1 ...
+installing: pycodestyle-2.3.1-py36hf609f19_0 ...
+installing: pycosat-0.6.2-py36h1a0ea17_1 ...
+installing: pycparser-2.18-py36hf9f622e_1 ...
+installing: pycrypto-2.6.1-py36h6998063_1 ...
+installing: pycurl-7.43.0-py36h5e72054_3 ...
+installing: pyodbc-4.0.17-py36h999153c_0 ...
+installing: pyparsing-2.2.0-py36hee85983_1 ...
+installing: pysocks-1.6.7-py36hd97a5b1_1 ...
+installing: pytz-2017.2-py36hc2ccc2a_1 ...
+installing: pyyaml-3.12-py36hafb9ca4_1 ...
+installing: pyzmq-16.0.2-py36h3b0cf96_2 ...
+installing: qt-5.6.2-h974d657_12 ...
+installing: qtpy-1.3.1-py36h3691cc8_0 ...
+installing: rope-0.10.5-py36h1f8c17e_0 ...
+installing: ruamel_yaml-0.11.14-py36ha2fb22d_2 ...
+installing: simplegeneric-0.8.1-py36h2cb9092_0 ...
+installing: sip-4.18.1-py36h51ed4ed_2 ...
+installing: six-1.11.0-py36h372c433_1 ...
+installing: snowballstemmer-1.2.1-py36h6febd40_0 ...
+installing: sortedcontainers-1.5.7-py36hdf89491_0 ...
+installing: sphinxcontrib-1.0-py36h6d0f590_1 ...
+installing: sqlalchemy-1.1.13-py36hfb5efd7_0 ...
+installing: tblib-1.3.2-py36h34cf8b6_0 ...
+installing: testpath-0.3.1-py36h8cadb63_0 ...
+installing: toolz-0.8.2-py36h81f2dff_0 ...
+installing: tornado-4.5.2-py36h1283b2a_0 ...
+installing: typing-3.6.2-py36h7da032a_0 ...
+installing: unicodecsv-0.14.1-py36ha668878_0 ...
+installing: wcwidth-0.1.7-py36hdf4376a_0 ...
+installing: webencodings-0.5.1-py36h800622e_1 ...
+installing: werkzeug-0.12.2-py36hc703753_0 ...
+installing: wrapt-1.10.11-py36h28b7045_0 ...
+installing: xlrd-1.1.0-py36h1db9f0c_1 ...
+installing: xlsxwriter-1.0.2-py36h3de1aca_0 ...
+installing: xlwt-1.3.0-py36h7b00a1f_0 ...
+installing: babel-2.5.0-py36h7d14adf_0 ...
+installing: backports.shutil_get_terminal_size-1.0.0-py36hfea85ff_2 ...
+installing: bottleneck-1.2.1-py36haac1ea0_0 ...
+installing: cffi-1.10.0-py36had8d393_1 ...
+installing: conda-verify-2.0.0-py36h98955d8_0 ...
+installing: cycler-0.10.0-py36h93f1223_0 ...
+installing: cytoolz-0.8.2-py36h708bfd4_0 ...
+installing: h5py-2.7.0-py36he81ebca_1 ...
+installing: harfbuzz-1.5.0-h2545bd6_0 ...
+installing: html5lib-0.999999999-py36h2cfc398_0 ...
+installing: networkx-2.0-py36h7e96fb8_0 ...
+installing: nltk-3.2.4-py36h1a0979f_0 ...
+installing: numba-0.35.0-np113py36_10 ...
+installing: numexpr-2.6.2-py36hdd3393f_1 ...
+installing: openpyxl-2.4.8-py36h41dd2a8_1 ...
+installing: packaging-16.8-py36ha668100_1 ...
+installing: partd-0.3.8-py36h36fd896_0 ...
+installing: pathlib2-2.3.0-py36h49efa8e_0 ...
+installing: pexpect-4.2.1-py36h3b9d41b_0 ...
+installing: pillow-4.2.1-py36h9119f52_0 ...
+installing: pyqt-5.6.0-py36h0386399_5 ...
+installing: python-dateutil-2.6.1-py36h88d3b88_1 ...
+installing: pywavelets-0.5.2-py36he602eb0_0 ...
+installing: qtawesome-0.4.4-py36h609ed8c_0 ...
+installing: scipy-0.19.1-py36h9976243_3 ...
+installing: setuptools-36.5.0-py36he42e2e1_0 ...
+installing: singledispatch-3.4.0.3-py36h7a266c3_0 ...
+installing: sortedcollections-0.5.3-py36h3c761f9_0 ...
+installing: sphinxcontrib-websupport-1.0.1-py36hb5cb234_1 ...
+installing: sympy-1.1.1-py36hc6d1c1c_0 ...
+installing: terminado-0.6-py36ha25a19f_0 ...
+installing: traitlets-4.3.2-py36h674d592_0 ...
+installing: zict-0.1.3-py36h3a3bf81_0 ...
+installing: astroid-1.5.3-py36hbdb9df2_0 ...
+installing: bleach-2.0.0-py36h688b259_0 ...
+installing: clyent-1.2.2-py36h7e57e65_1 ...
+installing: cryptography-2.0.3-py36ha225213_1 ...
+installing: cython-0.26.1-py36h21c49d0_0 ...
+installing: datashape-0.5.4-py36h3ad6b5c_0 ...
+installing: distributed-1.19.1-py36h25f3894_0 ...
+installing: get_terminal_size-1.0.0-haa9412d_0 ...
+installing: gevent-1.2.2-py36h2fe25dc_0 ...
+installing: imageio-2.2.0-py36he555465_0 ...
+installing: isort-4.2.15-py36had401c0_0 ...
+installing: jinja2-2.9.6-py36h489bce4_1 ...
+installing: jsonschema-2.6.0-py36h006f8b5_0 ...
+installing: jupyter_core-4.3.0-py36h357a921_0 ...
+installing: matplotlib-2.1.0-py36hba5de38_0 ...
+installing: navigator-updater-0.1.0-py36h14770f7_0 ...
+installing: nose-1.3.7-py36hcdf7029_2 ...
+installing: pandas-0.20.3-py36h842e28d_2 ...
+installing: pango-1.40.11-h8191d47_0 ...
+installing: patsy-0.4.1-py36ha3be15e_0 ...
+installing: pyflakes-1.6.0-py36h7bd6a15_0 ...
+installing: pygments-2.2.0-py36h0d3125c_0 ...
+installing: pytables-3.4.2-py36h3b5282a_2 ...
+installing: pytest-3.2.1-py36h11ad3bb_1 ...
+installing: scikit-learn-0.19.1-py36h7aa7ec6_0 ...
+installing: wheel-0.29.0-py36he7f4e38_1 ...
+installing: astropy-2.0.2-py36ha51211e_4 ...
+installing: bkcharts-0.2-py36h735825a_0 ...
+installing: bokeh-0.12.10-py36hbb0e44a_0 ...
+installing: flask-0.12.2-py36hb24657c_0 ...
+installing: jupyter_client-5.1.0-py36h614e9ea_0 ...
+installing: nbformat-4.4.0-py36h31c9010_0 ...
+installing: pip-9.0.1-py36h8ec8b28_3 ...
+installing: prompt_toolkit-1.0.15-py36h17d85b1_0 ...
+installing: pylint-1.7.4-py36hb9d4533_0 ...
+installing: pyopenssl-17.2.0-py36h5cc804b_0 ...
+installing: statsmodels-0.8.0-py36h8533d0b_0 ...
+installing: dask-0.15.3-py36hdc2c8aa_0 ...
+installing: flask-cors-3.0.3-py36h2d857d3_0 ...
+installing: ipython-6.1.0-py36hc72a948_1 ...
+installing: nbconvert-5.3.1-py36hb41ffb7_0 ...
+installing: seaborn-0.8.0-py36h197244f_0 ...
+installing: urllib3-1.22-py36hbe7ace6_0 ...
+installing: ipykernel-4.6.1-py36hbf841aa_0 ...
+installing: odo-0.5.1-py36h90ed295_0 ...
+installing: requests-2.18.4-py36he2e5f8d_1 ...
+installing: scikit-image-0.13.0-py36had3c07a_1 ...
+installing: anaconda-client-1.6.5-py36h19c0dcd_0 ...
+installing: blaze-0.11.3-py36h4e06776_0 ...
+installing: conda-4.3.30-py36h5d9f9f4_0 ...
+installing: jupyter_console-5.2.0-py36he59e554_1 ...
+installing: notebook-5.0.0-py36h0b20546_2 ...
+installing: qtconsole-4.3.1-py36h8f73b5b_0 ...
+installing: sphinx-1.6.3-py36he5f0bdb_0 ...
+installing: anaconda-project-0.8.0-py36h29abdf5_0 ...
+installing: conda-build-3.0.27-py36h940a66d_0 ...
+installing: jupyterlab_launcher-0.4.0-py36h4d8058d_0 ...
+installing: numpydoc-0.7.0-py36h18f165f_0 ...
+installing: widgetsnbextension-3.0.2-py36hd01bb71_1 ...
+installing: anaconda-navigator-1.6.9-py36h11ddaaa_0 ...
+installing: ipywidgets-7.0.0-py36h7b55c3a_0 ...
+installing: jupyterlab-0.27.0-py36h86377d0_2 ...
+installing: spyder-3.2.4-py36hbe6152b_0 ...
+installing: _ipyw_jlab_nb_ext_conf-0.1.0-py36he11e457_0 ...
+installing: jupyter-1.0.0-py36h9896ce5_0 ...
+installing: anaconda-5.0.1-py36hd30a520_1 ...
+installation finished.
+ ---> 095e26b2abac
+Removing intermediate container 3f8d6ab43b7d
+Step 6/10 : RUN pip install --upgrade pip &&     pip install tensorflow==1.4.0 &&     pip install keras==2.1.1 &&     conda clean -yt
+ ---> Running in 81e674000b7f
+Requirement already up-to-date: pip in /opt/conda/lib/python3.6/site-packages
+Collecting tensorflow==1.4.0
+  Downloading tensorflow-1.4.0-cp36-cp36m-manylinux1_x86_64.whl (41.2MB)
+Collecting tensorflow-tensorboard<0.5.0,>=0.4.0rc1 (from tensorflow==1.4.0)
+  Downloading tensorflow_tensorboard-0.4.0-py3-none-any.whl (1.7MB)
+Requirement already satisfied: numpy>=1.12.1 in /opt/conda/lib/python3.6/site-packages (from tensorflow==1.4.0)
+Requirement already satisfied: wheel>=0.26 in /opt/conda/lib/python3.6/site-packages (from tensorflow==1.4.0)
+Requirement already satisfied: six>=1.10.0 in /opt/conda/lib/python3.6/site-packages (from tensorflow==1.4.0)
+Collecting protobuf>=3.3.0 (from tensorflow==1.4.0)
+  Downloading protobuf-3.5.1-cp36-cp36m-manylinux1_x86_64.whl (6.4MB)
+Collecting enum34>=1.1.6 (from tensorflow==1.4.0)
+  Downloading enum34-1.1.6-py3-none-any.whl
+Collecting markdown>=2.6.8 (from tensorflow-tensorboard<0.5.0,>=0.4.0rc1->tensorflow==1.4.0)
+  Downloading Markdown-2.6.11-py2.py3-none-any.whl (78kB)
+Requirement already satisfied: werkzeug>=0.11.10 in /opt/conda/lib/python3.6/site-packages (from tensorflow-tensorboard<0.5.0,>=0.4.0rc1->tensorflow==1.4.0)
+Collecting bleach==1.5.0 (from tensorflow-tensorboard<0.5.0,>=0.4.0rc1->tensorflow==1.4.0)
+  Downloading bleach-1.5.0-py2.py3-none-any.whl
+Collecting html5lib==0.9999999 (from tensorflow-tensorboard<0.5.0,>=0.4.0rc1->tensorflow==1.4.0)
+  Downloading html5lib-0.9999999.tar.gz (889kB)
+Requirement already satisfied: setuptools in /opt/conda/lib/python3.6/site-packages (from protobuf>=3.3.0->tensorflow==1.4.0)
+Building wheels for collected packages: html5lib
+  Running setup.py bdist_wheel for html5lib: started
+  Running setup.py bdist_wheel for html5lib: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/6f/85/6c/56b8e1292c6214c4eb73b9dda50f53e8e977bf65989373c962
+Successfully built html5lib
+Installing collected packages: protobuf, markdown, html5lib, bleach, tensorflow-tensorboard, enum34, tensorflow
+  Found existing installation: html5lib 0.999999999
+    Uninstalling html5lib-0.999999999:
+      Successfully uninstalled html5lib-0.999999999
+  Found existing installation: bleach 2.0.0
+    Uninstalling bleach-2.0.0:
+      Successfully uninstalled bleach-2.0.0
+Successfully installed bleach-1.5.0 enum34-1.1.6 html5lib-0.9999999 markdown-2.6.11 protobuf-3.5.1 tensorflow-1.4.0 tensorflow-tensorboard-0.4.0
+Collecting keras==2.1.1
+  Downloading Keras-2.1.1-py2.py3-none-any.whl (302kB)
+Requirement already satisfied: numpy>=1.9.1 in /opt/conda/lib/python3.6/site-packages (from keras==2.1.1)
+Requirement already satisfied: scipy>=0.14 in /opt/conda/lib/python3.6/site-packages (from keras==2.1.1)
+Requirement already satisfied: pyyaml in /opt/conda/lib/python3.6/site-packages (from keras==2.1.1)
+Requirement already satisfied: six>=1.9.0 in /opt/conda/lib/python3.6/site-packages (from keras==2.1.1)
+Installing collected packages: keras
+Successfully installed keras-2.1.1
+Cache location: /opt/conda/pkgs
+Will remove the following tarballs:
+
+/opt/conda/pkgs
+---------------
+mkl-service-1.1.2-py36h17a0993_4.tar.bz2      10 KB
+sphinxcontrib-websupport-1.0.1-py36hb5cb234_1.tar.bz2      36 KB
+curl-7.55.1-hcb0b314_2.tar.bz2               626 KB
+patsy-0.4.1-py36ha3be15e_0.tar.bz2           323 KB
+zeromq-4.2.2-hb0b69da_1.tar.bz2              662 KB
+pycrypto-2.6.1-py36h6998063_1.tar.bz2        471 KB
+graphite2-1.3.10-hc526e54_0.tar.bz2          125 KB
+cycler-0.10.0-py36h93f1223_0.tar.bz2          13 KB
+pyzmq-16.0.2-py36h3b0cf96_2.tar.bz2          419 KB
+rope-0.10.5-py36h1f8c17e_0.tar.bz2           279 KB
+icu-58.2-h211956c_0.tar.bz2                 22.5 MB
+path.py-10.3.1-py36he0c6f6d_0.tar.bz2         51 KB
+pycodestyle-2.3.1-py36hf609f19_0.tar.bz2      55 KB
+olefile-0.44-py36h79f9f78_0.tar.bz2           52 KB
+python-3.6.3-hc9025b9_1.tar.bz2             27.0 MB
+pyparsing-2.2.0-py36hee85983_1.tar.bz2        96 KB
+wheel-0.29.0-py36he7f4e38_1.tar.bz2           88 KB
+fastcache-1.0.2-py36h5b0c431_0.tar.bz2        29 KB
+seaborn-0.8.0-py36h197244f_0.tar.bz2         333 KB
+conda-4.3.30-py36h5d9f9f4_0.tar.bz2          511 KB
+ptyprocess-0.5.2-py36h69acd42_0.tar.bz2       22 KB
+jupyterlab_launcher-0.4.0-py36h4d8058d_0.tar.bz2      17 KB
+six-1.11.0-py36h372c433_1.tar.bz2             21 KB
+navigator-updater-0.1.0-py36h14770f7_0.tar.bz2     1.2 MB
+jpeg-9b-habf39ab_1.tar.bz2                   247 KB
+libxcb-1.12-h84ff03f_3.tar.bz2               445 KB
+odo-0.5.1-py36h90ed295_0.tar.bz2             193 KB
+widgetsnbextension-3.0.2-py36hd01bb71_1.tar.bz2     2.0 MB
+contextlib2-0.5.5-py36h6c84a62_0.tar.bz2      15 KB
+lzo-2.10-h1bfc0ba_1.tar.bz2                  314 KB
+typing-3.6.2-py36h7da032a_0.tar.bz2           44 KB
+flask-0.12.2-py36hb24657c_0.tar.bz2          104 KB
+pep8-1.7.0-py36h26ade29_0.tar.bz2             51 KB
+docutils-0.14-py36hb0f60f5_0.tar.bz2         688 KB
+pixman-0.34.0-h83dc358_2.tar.bz2             597 KB
+requests-2.18.4-py36he2e5f8d_1.tar.bz2        92 KB
+prompt_toolkit-1.0.15-py36h17d85b1_0.tar.bz2     339 KB
+pyodbc-4.0.17-py36h999153c_0.tar.bz2          57 KB
+numexpr-2.6.2-py36hdd3393f_1.tar.bz2         180 KB
+jupyter_core-4.3.0-py36h357a921_0.tar.bz2      60 KB
+jupyterlab-0.27.0-py36h86377d0_2.tar.bz2     3.1 MB
+h5py-2.7.0-py36he81ebca_1.tar.bz2            1.1 MB
+mccabe-0.6.1-py36h5ad9710_1.tar.bz2           13 KB
+pycurl-7.43.0-py36h5e72054_3.tar.bz2          55 KB
+mpfr-3.1.5-h12ff648_1.tar.bz2                443 KB
+pytz-2017.2-py36hc2ccc2a_1.tar.bz2           189 KB
+harfbuzz-1.5.0-h2545bd6_0.tar.bz2            674 KB
+entrypoints-0.2.3-py36h1aec115_2.tar.bz2       9 KB
+pexpect-4.2.1-py36h3b9d41b_0.tar.bz2          71 KB
+jedi-0.10.2-py36h552def0_0.tar.bz2           248 KB
+bitarray-0.8.1-py36h5834eb8_0.tar.bz2         60 KB
+glob2-0.5-py36h2c1b292_1.tar.bz2              16 KB
+astroid-1.5.3-py36hbdb9df2_0.tar.bz2         373 KB
+mpmath-0.19-py36h8cc018b_2.tar.bz2           886 KB
+datashape-0.5.4-py36h3ad6b5c_0.tar.bz2        99 KB
+singledispatch-3.4.0.3-py36h7a266c3_0.tar.bz2      15 KB
+libsodium-1.0.13-h31c71d8_2.tar.bz2          369 KB
+libstdcxx-ng-7.2.0-h7a57d05_2.tar.bz2        2.5 MB
+zlib-1.2.11-hfbfcf68_1.tar.bz2               101 KB
+cffi-1.10.0-py36had8d393_1.tar.bz2           206 KB
+ipython-6.1.0-py36hc72a948_1.tar.bz2        1023 KB
+heapdict-1.0.0-py36h79797d7_0.tar.bz2          7 KB
+urllib3-1.22-py36hbe7ace6_0.tar.bz2          155 KB
+clyent-1.2.2-py36h7e57e65_1.tar.bz2           18 KB
+imageio-2.2.0-py36he555465_0.tar.bz2         3.2 MB
+html5lib-0.999999999-py36h2cfc398_0.tar.bz2     178 KB
+gmpy2-2.0.8-py36h55090d7_1.tar.bz2           165 KB
+pycparser-2.18-py36hf9f622e_1.tar.bz2        169 KB
+sortedcollections-0.5.3-py36h3c761f9_0.tar.bz2      14 KB
+mkl-2018.0.0-hb491cac_4.tar.bz2            174.4 MB
+ipykernel-4.6.1-py36hbf841aa_0.tar.bz2       139 KB
+traitlets-4.3.2-py36h674d592_0.tar.bz2       131 KB
+scikit-learn-0.19.1-py36h7aa7ec6_0.tar.bz2     5.2 MB
+qtpy-1.3.1-py36h3691cc8_0.tar.bz2             41 KB
+pyqt-5.6.0-py36h0386399_5.tar.bz2            5.5 MB
+wcwidth-0.1.7-py36hdf4376a_0.tar.bz2          25 KB
+conda-env-2.6.0-h36134e3_1.tar.bz2             2 KB
+backports.shutil_get_terminal_size-1.0.0-py36hfea85ff_2.tar.bz2       8 KB
+sortedcontainers-1.5.7-py36hdf89491_0.tar.bz2      45 KB
+locket-0.2.0-py36h787c0ad_1.tar.bz2            8 KB
+sphinxcontrib-1.0-py36h6d0f590_1.tar.bz2       3 KB
+libedit-3.1-heed3624_0.tar.bz2               171 KB
+packaging-16.8-py36ha668100_1.tar.bz2         31 KB
+jdcal-1.3-py36h4c697fb_0.tar.bz2              11 KB
+pillow-4.2.1-py36h9119f52_0.tar.bz2          548 KB
+gst-plugins-base-1.12.2-he3457e5_0.tar.bz2     4.9 MB
+libtiff-4.0.8-h90200ff_9.tar.bz2             579 KB
+yaml-0.1.7-h96e3832_1.tar.bz2                 84 KB
+numpydoc-0.7.0-py36h18f165f_0.tar.bz2         38 KB
+pytest-3.2.1-py36h11ad3bb_1.tar.bz2          282 KB
+nbconvert-5.3.1-py36hb41ffb7_0.tar.bz2       398 KB
+idna-2.6-py36h82fb2a8_1.tar.bz2              122 KB
+ply-3.10-py36hed35086_0.tar.bz2               79 KB
+markupsafe-1.0-py36hd9260cd_1.tar.bz2         24 KB
+mpc-1.0.3-hf803216_4.tar.bz2                  94 KB
+conda-build-3.0.27-py36h940a66d_0.tar.bz2     376 KB
+notebook-5.0.0-py36h0b20546_2.tar.bz2        5.7 MB
+zict-0.1.3-py36h3a3bf81_0.tar.bz2             18 KB
+distributed-1.19.1-py36h25f3894_0.tar.bz2     672 KB
+libxslt-1.1.29-hcf9102b_5.tar.bz2            533 KB
+pkginfo-1.4.1-py36h215d178_1.tar.bz2          39 KB
+itsdangerous-0.24-py36h93cc618_1.tar.bz2      20 KB
+jupyter_console-5.2.0-py36he59e554_1.tar.bz2      35 KB
+conda-verify-2.0.0-py36h98955d8_0.tar.bz2      20 KB
+gmp-6.1.2-hb3b607b_0.tar.bz2                 744 KB
+hdf5-1.10.1-hb0523eb_0.tar.bz2               5.3 MB
+jbig-2.1-hdba287a_0.tar.bz2                   41 KB
+webencodings-0.5.1-py36h800622e_1.tar.bz2      19 KB
+lxml-4.1.0-py36h5b66e50_0.tar.bz2            1.5 MB
+bkcharts-0.2-py36h735825a_0.tar.bz2          127 KB
+openssl-1.0.2l-h077ae2c_5.tar.bz2            3.4 MB
+libtool-2.4.6-hd50d1a6_0.tar.bz2             515 KB
+libpng-1.6.32-hda9c8bc_2.tar.bz2             335 KB
+qt-5.6.2-h974d657_12.tar.bz2                44.5 MB
+pyopenssl-17.2.0-py36h5cc804b_0.tar.bz2       78 KB
+pango-1.40.11-h8191d47_0.tar.bz2             527 KB
+jinja2-2.9.6-py36h489bce4_1.tar.bz2          362 KB
+xlsxwriter-1.0.2-py36h3de1aca_0.tar.bz2      202 KB
+babel-2.5.0-py36h7d14adf_0.tar.bz2           4.7 MB
+werkzeug-0.12.2-py36hc703753_0.tar.bz2       413 KB
+get_terminal_size-1.0.0-haa9412d_0.tar.bz2       3 KB
+toolz-0.8.2-py36h81f2dff_0.tar.bz2            91 KB
+bottleneck-1.2.1-py36haac1ea0_0.tar.bz2      127 KB
+scikit-image-0.13.0-py36had3c07a_1.tar.bz2    23.0 MB
+flask-cors-3.0.3-py36h2d857d3_0.tar.bz2       20 KB
+sqlalchemy-1.1.13-py36hfb5efd7_0.tar.bz2     1.5 MB
+imagesize-0.7.1-py36h52d8127_0.tar.bz2         6 KB
+filelock-2.0.12-py36hacfa1f5_0.tar.bz2        11 KB
+spyder-3.2.4-py36hbe6152b_0.tar.bz2          2.5 MB
+nltk-3.2.4-py36h1a0979f_0.tar.bz2            2.0 MB
+chardet-3.0.4-py36h0f667ec_1.tar.bz2         190 KB
+pandas-0.20.3-py36h842e28d_2.tar.bz2         9.9 MB
+networkx-2.0-py36h7e96fb8_0.tar.bz2          1.8 MB
+boto-2.48.0-py36h6e4cd66_1.tar.bz2           1.5 MB
+tblib-1.3.2-py36h34cf8b6_0.tar.bz2            16 KB
+anaconda-client-1.6.5-py36h19c0dcd_0.tar.bz2     132 KB
+terminado-0.6-py36ha25a19f_0.tar.bz2          21 KB
+libgfortran-ng-7.2.0-h9f7466a_2.tar.bz2      349 KB
+gevent-1.2.2-py36h2fe25dc_0.tar.bz2          773 KB
+cryptography-2.0.3-py36ha225213_1.tar.bz2     591 KB
+nose-1.3.7-py36hcdf7029_2.tar.bz2            214 KB
+qtconsole-4.3.1-py36h8f73b5b_0.tar.bz2       150 KB
+astropy-2.0.2-py36ha51211e_4.tar.bz2         6.9 MB
+sphinx-1.6.3-py36he5f0bdb_0.tar.bz2          1.6 MB
+ipython_genutils-0.2.0-py36hb52b0d5_0.tar.bz2      39 KB
+statsmodels-0.8.0-py36h8533d0b_0.tar.bz2     6.4 MB
+beautifulsoup4-4.6.0-py36h49b8c8c_1.tar.bz2     133 KB
+multipledispatch-0.4.9-py36h41da3fb_0.tar.bz2      15 KB
+dask-0.15.3-py36hdc2c8aa_0.tar.bz2             3 KB
+cairo-1.14.10-haa5651f_5.tar.bz2             1.4 MB
+libffi-3.2.1-h4deb6c0_3.tar.bz2               43 KB
+libssh2-1.8.0-h8c220ad_2.tar.bz2             243 KB
+llvmlite-0.20.0-py36_0.tar.bz2              11.2 MB
+pycosat-0.6.2-py36h1a0ea17_1.tar.bz2         104 KB
+backports-1.0-py36hfa02d7e_1.tar.bz2           3 KB
+glib-2.53.6-hc861d11_1.tar.bz2               8.4 MB
+fontconfig-2.12.4-h88586e7_1.tar.bz2         282 KB
+numba-0.35.0-np113py36_10.tar.bz2            2.6 MB
+pyflakes-1.6.0-py36h7bd6a15_0.tar.bz2         85 KB
+pywavelets-0.5.2-py36he602eb0_0.tar.bz2      4.0 MB
+xlwt-1.3.0-py36h7b00a1f_0.tar.bz2            162 KB
+pylint-1.7.4-py36hb9d4533_0.tar.bz2          690 KB
+lazy-object-proxy-1.3.1-py36h10fcdad_0.tar.bz2      29 KB
+greenlet-0.4.12-py36h2d503a6_0.tar.bz2        19 KB
+bzip2-1.0.6-h0376d23_1.tar.bz2               414 KB
+anaconda-navigator-1.6.9-py36h11ddaaa_0.tar.bz2     4.0 MB
+nbformat-4.4.0-py36h31c9010_0.tar.bz2        137 KB
+wrapt-1.10.11-py36h28b7045_0.tar.bz2          45 KB
+anaconda-5.0.1-py36hd30a520_1.tar.bz2         13 KB
+jupyter_client-5.1.0-py36h614e9ea_0.tar.bz2     117 KB
+testpath-0.3.1-py36h8cadb63_0.tar.bz2         89 KB
+anaconda-project-0.8.0-py36h29abdf5_0.tar.bz2     209 KB
+dbus-1.10.22-h3b5a359_0.tar.bz2              544 KB
+pysocks-1.6.7-py36hd97a5b1_1.tar.bz2          22 KB
+sympy-1.1.1-py36hc6d1c1c_0.tar.bz2           7.0 MB
+unicodecsv-0.14.1-py36ha668878_0.tar.bz2      25 KB
+sip-4.18.1-py36h51ed4ed_2.tar.bz2            277 KB
+python-dateutil-2.6.1-py36h88d3b88_1.tar.bz2     237 KB
+pytables-3.4.2-py36h3b5282a_2.tar.bz2        2.4 MB
+ca-certificates-2017.08.26-h1d4fec5_0.tar.bz2     263 KB
+xlrd-1.1.0-py36h1db9f0c_1.tar.bz2            194 KB
+simplegeneric-0.8.1-py36h2cb9092_0.tar.bz2       9 KB
+jsonschema-2.6.0-py36h006f8b5_0.tar.bz2       62 KB
+cytoolz-0.8.2-py36h708bfd4_0.tar.bz2         364 KB
+unixodbc-2.3.4-hc36303a_1.tar.bz2            316 KB
+freetype-2.8-h52ed37b_0.tar.bz2              803 KB
+py-1.4.34-py36h0712aa3_1.tar.bz2             134 KB
+intel-openmp-2018.0.0-h15fc484_7.tar.bz2     617 KB
+setuptools-36.5.0-py36he42e2e1_0.tar.bz2     512 KB
+isort-4.2.15-py36had401c0_0.tar.bz2           57 KB
+patchelf-0.9-hf79760b_2.tar.bz2               69 KB
+psutil-5.4.0-py36h84c53db_0.tar.bz2          296 KB
+dask-core-0.15.3-py36h10e6167_0.tar.bz2      920 KB
+colorama-0.3.9-py36h489cec4_0.tar.bz2         23 KB
+tornado-4.5.2-py36h1283b2a_0.tar.bz2         616 KB
+ncurses-6.0-h06874d7_1.tar.bz2               907 KB
+_ipyw_jlab_nb_ext_conf-0.1.0-py36he11e457_0.tar.bz2       4 KB
+xz-5.2.3-h2bcbf08_1.tar.bz2                  356 KB
+matplotlib-2.1.0-py36hba5de38_0.tar.bz2      6.6 MB
+pathlib2-2.3.0-py36h49efa8e_0.tar.bz2         32 KB
+expat-2.2.4-hc00ebd1_1.tar.bz2               185 KB
+msgpack-python-0.4.8-py36hec4c5d1_0.tar.bz2      90 KB
+gstreamer-1.12.2-h4f93127_0.tar.bz2          3.6 MB
+pickleshare-0.7.4-py36h63277f8_0.tar.bz2      11 KB
+pip-9.0.1-py36h8ec8b28_3.tar.bz2             1.7 MB
+ipywidgets-7.0.0-py36h7b55c3a_0.tar.bz2       91 KB
+decorator-4.1.2-py36hd076ac8_0.tar.bz2        15 KB
+partd-0.3.8-py36h36fd896_0.tar.bz2            31 KB
+tk-8.6.7-h5979e9b_1.tar.bz2                  3.2 MB
+numpy-1.13.3-py36ha12f23b_0.tar.bz2          3.9 MB
+snowballstemmer-1.2.1-py36h6febd40_0.tar.bz2      85 KB
+openpyxl-2.4.8-py36h41dd2a8_1.tar.bz2        295 KB
+bokeh-0.12.10-py36hbb0e44a_0.tar.bz2         4.2 MB
+cloudpickle-0.4.0-py36h30f8c20_0.tar.bz2      24 KB
+pygments-2.2.0-py36h0d3125c_0.tar.bz2        1.3 MB
+ruamel_yaml-0.11.14-py36ha2fb22d_2.tar.bz2     210 KB
+click-6.7-py36h5253387_0.tar.bz2             104 KB
+et_xmlfile-1.0.1-py36hd6bccc3_0.tar.bz2       20 KB
+cython-0.26.1-py36h21c49d0_0.tar.bz2         3.0 MB
+jupyter-1.0.0-py36h9896ce5_0.tar.bz2           4 KB
+pandocfilters-1.4.2-py36ha6701b7_1.tar.bz2      12 KB
+mistune-0.7.4-py36hbab8784_0.tar.bz2          52 KB
+libgcc-ng-7.2.0-h7cc24e2_2.tar.bz2           6.1 MB
+alabaster-0.7.10-py36h306e16b_0.tar.bz2       15 KB
+pandoc-1.19.2.1-hea2e7c5_1.tar.bz2          17.8 MB
+certifi-2017.7.27.1-py36h8b7b77e_0.tar.bz2     205 KB
+qtawesome-0.4.4-py36h609ed8c_0.tar.bz2       159 KB
+asn1crypto-0.22.0-py36h265ca7c_1.tar.bz2     149 KB
+readline-7.0-hac23ff0_3.tar.bz2              387 KB
+pcre-8.41-hc71a17e_0.tar.bz2                 250 KB
+libxml2-2.9.4-h6b072ca_5.tar.bz2             2.0 MB
+bleach-2.0.0-py36h688b259_0.tar.bz2           26 KB
+scipy-0.19.1-py36h9976243_3.tar.bz2         17.4 MB
+blaze-0.11.3-py36h4e06776_0.tar.bz2          605 KB
+sqlite-3.20.1-h6d8b0f3_1.tar.bz2             1.5 MB
+pyyaml-3.12-py36hafb9ca4_1.tar.bz2           159 KB
+
+---------------------------------------------------
+Total:                                     524.4 MB
+
+Removed mkl-service-1.1.2-py36h17a0993_4.tar.bz2
+Removed sphinxcontrib-websupport-1.0.1-py36hb5cb234_1.tar.bz2
+Removed curl-7.55.1-hcb0b314_2.tar.bz2
+Removed patsy-0.4.1-py36ha3be15e_0.tar.bz2
+Removed zeromq-4.2.2-hb0b69da_1.tar.bz2
+Removed pycrypto-2.6.1-py36h6998063_1.tar.bz2
+Removed graphite2-1.3.10-hc526e54_0.tar.bz2
+Removed cycler-0.10.0-py36h93f1223_0.tar.bz2
+Removed pyzmq-16.0.2-py36h3b0cf96_2.tar.bz2
+Removed rope-0.10.5-py36h1f8c17e_0.tar.bz2
+Removed icu-58.2-h211956c_0.tar.bz2
+Removed path.py-10.3.1-py36he0c6f6d_0.tar.bz2
+Removed pycodestyle-2.3.1-py36hf609f19_0.tar.bz2
+Removed olefile-0.44-py36h79f9f78_0.tar.bz2
+Removed python-3.6.3-hc9025b9_1.tar.bz2
+Removed pyparsing-2.2.0-py36hee85983_1.tar.bz2
+Removed wheel-0.29.0-py36he7f4e38_1.tar.bz2
+Removed fastcache-1.0.2-py36h5b0c431_0.tar.bz2
+Removed seaborn-0.8.0-py36h197244f_0.tar.bz2
+Removed conda-4.3.30-py36h5d9f9f4_0.tar.bz2
+Removed ptyprocess-0.5.2-py36h69acd42_0.tar.bz2
+Removed jupyterlab_launcher-0.4.0-py36h4d8058d_0.tar.bz2
+Removed six-1.11.0-py36h372c433_1.tar.bz2
+Removed navigator-updater-0.1.0-py36h14770f7_0.tar.bz2
+Removed jpeg-9b-habf39ab_1.tar.bz2
+Removed libxcb-1.12-h84ff03f_3.tar.bz2
+Removed odo-0.5.1-py36h90ed295_0.tar.bz2
+Removed widgetsnbextension-3.0.2-py36hd01bb71_1.tar.bz2
+Removed contextlib2-0.5.5-py36h6c84a62_0.tar.bz2
+Removed lzo-2.10-h1bfc0ba_1.tar.bz2
+Removed typing-3.6.2-py36h7da032a_0.tar.bz2
+Removed flask-0.12.2-py36hb24657c_0.tar.bz2
+Removed pep8-1.7.0-py36h26ade29_0.tar.bz2
+Removed docutils-0.14-py36hb0f60f5_0.tar.bz2
+Removed pixman-0.34.0-h83dc358_2.tar.bz2
+Removed requests-2.18.4-py36he2e5f8d_1.tar.bz2
+Removed prompt_toolkit-1.0.15-py36h17d85b1_0.tar.bz2
+Removed pyodbc-4.0.17-py36h999153c_0.tar.bz2
+Removed numexpr-2.6.2-py36hdd3393f_1.tar.bz2
+Removed jupyter_core-4.3.0-py36h357a921_0.tar.bz2
+Removed jupyterlab-0.27.0-py36h86377d0_2.tar.bz2
+Removed h5py-2.7.0-py36he81ebca_1.tar.bz2
+Removed mccabe-0.6.1-py36h5ad9710_1.tar.bz2
+Removed pycurl-7.43.0-py36h5e72054_3.tar.bz2
+Removed mpfr-3.1.5-h12ff648_1.tar.bz2
+Removed pytz-2017.2-py36hc2ccc2a_1.tar.bz2
+Removed harfbuzz-1.5.0-h2545bd6_0.tar.bz2
+Removed entrypoints-0.2.3-py36h1aec115_2.tar.bz2
+Removed pexpect-4.2.1-py36h3b9d41b_0.tar.bz2
+Removed jedi-0.10.2-py36h552def0_0.tar.bz2
+Removed bitarray-0.8.1-py36h5834eb8_0.tar.bz2
+Removed glob2-0.5-py36h2c1b292_1.tar.bz2
+Removed astroid-1.5.3-py36hbdb9df2_0.tar.bz2
+Removed mpmath-0.19-py36h8cc018b_2.tar.bz2
+Removed datashape-0.5.4-py36h3ad6b5c_0.tar.bz2
+Removed singledispatch-3.4.0.3-py36h7a266c3_0.tar.bz2
+Removed libsodium-1.0.13-h31c71d8_2.tar.bz2
+Removed libstdcxx-ng-7.2.0-h7a57d05_2.tar.bz2
+Removed zlib-1.2.11-hfbfcf68_1.tar.bz2
+Removed cffi-1.10.0-py36had8d393_1.tar.bz2
+Removed ipython-6.1.0-py36hc72a948_1.tar.bz2
+Removed heapdict-1.0.0-py36h79797d7_0.tar.bz2
+Removed urllib3-1.22-py36hbe7ace6_0.tar.bz2
+Removed clyent-1.2.2-py36h7e57e65_1.tar.bz2
+Removed imageio-2.2.0-py36he555465_0.tar.bz2
+Removed html5lib-0.999999999-py36h2cfc398_0.tar.bz2
+Removed gmpy2-2.0.8-py36h55090d7_1.tar.bz2
+Removed pycparser-2.18-py36hf9f622e_1.tar.bz2
+Removed sortedcollections-0.5.3-py36h3c761f9_0.tar.bz2
+Removed mkl-2018.0.0-hb491cac_4.tar.bz2
+Removed ipykernel-4.6.1-py36hbf841aa_0.tar.bz2
+Removed traitlets-4.3.2-py36h674d592_0.tar.bz2
+Removed scikit-learn-0.19.1-py36h7aa7ec6_0.tar.bz2
+Removed qtpy-1.3.1-py36h3691cc8_0.tar.bz2
+Removed pyqt-5.6.0-py36h0386399_5.tar.bz2
+Removed wcwidth-0.1.7-py36hdf4376a_0.tar.bz2
+Removed conda-env-2.6.0-h36134e3_1.tar.bz2
+Removed backports.shutil_get_terminal_size-1.0.0-py36hfea85ff_2.tar.bz2
+Removed sortedcontainers-1.5.7-py36hdf89491_0.tar.bz2
+Removed locket-0.2.0-py36h787c0ad_1.tar.bz2
+Removed sphinxcontrib-1.0-py36h6d0f590_1.tar.bz2
+Removed libedit-3.1-heed3624_0.tar.bz2
+Removed packaging-16.8-py36ha668100_1.tar.bz2
+Removed jdcal-1.3-py36h4c697fb_0.tar.bz2
+Removed pillow-4.2.1-py36h9119f52_0.tar.bz2
+Removed gst-plugins-base-1.12.2-he3457e5_0.tar.bz2
+Removed libtiff-4.0.8-h90200ff_9.tar.bz2
+Removed yaml-0.1.7-h96e3832_1.tar.bz2
+Removed numpydoc-0.7.0-py36h18f165f_0.tar.bz2
+Removed pytest-3.2.1-py36h11ad3bb_1.tar.bz2
+Removed nbconvert-5.3.1-py36hb41ffb7_0.tar.bz2
+Removed idna-2.6-py36h82fb2a8_1.tar.bz2
+Removed ply-3.10-py36hed35086_0.tar.bz2
+Removed markupsafe-1.0-py36hd9260cd_1.tar.bz2
+Removed mpc-1.0.3-hf803216_4.tar.bz2
+Removed conda-build-3.0.27-py36h940a66d_0.tar.bz2
+Removed notebook-5.0.0-py36h0b20546_2.tar.bz2
+Removed zict-0.1.3-py36h3a3bf81_0.tar.bz2
+Removed distributed-1.19.1-py36h25f3894_0.tar.bz2
+Removed libxslt-1.1.29-hcf9102b_5.tar.bz2
+Removed pkginfo-1.4.1-py36h215d178_1.tar.bz2
+Removed itsdangerous-0.24-py36h93cc618_1.tar.bz2
+Removed jupyter_console-5.2.0-py36he59e554_1.tar.bz2
+Removed conda-verify-2.0.0-py36h98955d8_0.tar.bz2
+Removed gmp-6.1.2-hb3b607b_0.tar.bz2
+Removed hdf5-1.10.1-hb0523eb_0.tar.bz2
+Removed jbig-2.1-hdba287a_0.tar.bz2
+Removed webencodings-0.5.1-py36h800622e_1.tar.bz2
+Removed lxml-4.1.0-py36h5b66e50_0.tar.bz2
+Removed bkcharts-0.2-py36h735825a_0.tar.bz2
+Removed openssl-1.0.2l-h077ae2c_5.tar.bz2
+Removed libtool-2.4.6-hd50d1a6_0.tar.bz2
+Removed libpng-1.6.32-hda9c8bc_2.tar.bz2
+Removed qt-5.6.2-h974d657_12.tar.bz2
+Removed pyopenssl-17.2.0-py36h5cc804b_0.tar.bz2
+Removed pango-1.40.11-h8191d47_0.tar.bz2
+Removed jinja2-2.9.6-py36h489bce4_1.tar.bz2
+Removed xlsxwriter-1.0.2-py36h3de1aca_0.tar.bz2
+Removed babel-2.5.0-py36h7d14adf_0.tar.bz2
+Removed werkzeug-0.12.2-py36hc703753_0.tar.bz2
+Removed get_terminal_size-1.0.0-haa9412d_0.tar.bz2
+Removed toolz-0.8.2-py36h81f2dff_0.tar.bz2
+Removed bottleneck-1.2.1-py36haac1ea0_0.tar.bz2
+Removed scikit-image-0.13.0-py36had3c07a_1.tar.bz2
+Removed flask-cors-3.0.3-py36h2d857d3_0.tar.bz2
+Removed sqlalchemy-1.1.13-py36hfb5efd7_0.tar.bz2
+Removed imagesize-0.7.1-py36h52d8127_0.tar.bz2
+Removed filelock-2.0.12-py36hacfa1f5_0.tar.bz2
+Removed spyder-3.2.4-py36hbe6152b_0.tar.bz2
+Removed nltk-3.2.4-py36h1a0979f_0.tar.bz2
+Removed chardet-3.0.4-py36h0f667ec_1.tar.bz2
+Removed pandas-0.20.3-py36h842e28d_2.tar.bz2
+Removed networkx-2.0-py36h7e96fb8_0.tar.bz2
+Removed boto-2.48.0-py36h6e4cd66_1.tar.bz2
+Removed tblib-1.3.2-py36h34cf8b6_0.tar.bz2
+Removed anaconda-client-1.6.5-py36h19c0dcd_0.tar.bz2
+Removed terminado-0.6-py36ha25a19f_0.tar.bz2
+Removed libgfortran-ng-7.2.0-h9f7466a_2.tar.bz2
+Removed gevent-1.2.2-py36h2fe25dc_0.tar.bz2
+Removed cryptography-2.0.3-py36ha225213_1.tar.bz2
+Removed nose-1.3.7-py36hcdf7029_2.tar.bz2
+Removed qtconsole-4.3.1-py36h8f73b5b_0.tar.bz2
+Removed astropy-2.0.2-py36ha51211e_4.tar.bz2
+Removed sphinx-1.6.3-py36he5f0bdb_0.tar.bz2
+Removed ipython_genutils-0.2.0-py36hb52b0d5_0.tar.bz2
+Removed statsmodels-0.8.0-py36h8533d0b_0.tar.bz2
+Removed beautifulsoup4-4.6.0-py36h49b8c8c_1.tar.bz2
+Removed multipledispatch-0.4.9-py36h41da3fb_0.tar.bz2
+Removed dask-0.15.3-py36hdc2c8aa_0.tar.bz2
+Removed cairo-1.14.10-haa5651f_5.tar.bz2
+Removed libffi-3.2.1-h4deb6c0_3.tar.bz2
+Removed libssh2-1.8.0-h8c220ad_2.tar.bz2
+Removed llvmlite-0.20.0-py36_0.tar.bz2
+Removed pycosat-0.6.2-py36h1a0ea17_1.tar.bz2
+Removed backports-1.0-py36hfa02d7e_1.tar.bz2
+Removed glib-2.53.6-hc861d11_1.tar.bz2
+Removed fontconfig-2.12.4-h88586e7_1.tar.bz2
+Removed numba-0.35.0-np113py36_10.tar.bz2
+Removed pyflakes-1.6.0-py36h7bd6a15_0.tar.bz2
+Removed pywavelets-0.5.2-py36he602eb0_0.tar.bz2
+Removed xlwt-1.3.0-py36h7b00a1f_0.tar.bz2
+Removed pylint-1.7.4-py36hb9d4533_0.tar.bz2
+Removed lazy-object-proxy-1.3.1-py36h10fcdad_0.tar.bz2
+Removed greenlet-0.4.12-py36h2d503a6_0.tar.bz2
+Removed bzip2-1.0.6-h0376d23_1.tar.bz2
+Removed anaconda-navigator-1.6.9-py36h11ddaaa_0.tar.bz2
+Removed nbformat-4.4.0-py36h31c9010_0.tar.bz2
+Removed wrapt-1.10.11-py36h28b7045_0.tar.bz2
+Removed anaconda-5.0.1-py36hd30a520_1.tar.bz2
+Removed jupyter_client-5.1.0-py36h614e9ea_0.tar.bz2
+Removed testpath-0.3.1-py36h8cadb63_0.tar.bz2
+Removed anaconda-project-0.8.0-py36h29abdf5_0.tar.bz2
+Removed dbus-1.10.22-h3b5a359_0.tar.bz2
+Removed pysocks-1.6.7-py36hd97a5b1_1.tar.bz2
+Removed sympy-1.1.1-py36hc6d1c1c_0.tar.bz2
+Removed unicodecsv-0.14.1-py36ha668878_0.tar.bz2
+Removed sip-4.18.1-py36h51ed4ed_2.tar.bz2
+Removed python-dateutil-2.6.1-py36h88d3b88_1.tar.bz2
+Removed pytables-3.4.2-py36h3b5282a_2.tar.bz2
+Removed ca-certificates-2017.08.26-h1d4fec5_0.tar.bz2
+Removed xlrd-1.1.0-py36h1db9f0c_1.tar.bz2
+Removed simplegeneric-0.8.1-py36h2cb9092_0.tar.bz2
+Removed jsonschema-2.6.0-py36h006f8b5_0.tar.bz2
+Removed cytoolz-0.8.2-py36h708bfd4_0.tar.bz2
+Removed unixodbc-2.3.4-hc36303a_1.tar.bz2
+Removed freetype-2.8-h52ed37b_0.tar.bz2
+Removed py-1.4.34-py36h0712aa3_1.tar.bz2
+Removed intel-openmp-2018.0.0-h15fc484_7.tar.bz2
+Removed setuptools-36.5.0-py36he42e2e1_0.tar.bz2
+Removed isort-4.2.15-py36had401c0_0.tar.bz2
+Removed patchelf-0.9-hf79760b_2.tar.bz2
+Removed psutil-5.4.0-py36h84c53db_0.tar.bz2
+Removed dask-core-0.15.3-py36h10e6167_0.tar.bz2
+Removed colorama-0.3.9-py36h489cec4_0.tar.bz2
+Removed tornado-4.5.2-py36h1283b2a_0.tar.bz2
+Removed ncurses-6.0-h06874d7_1.tar.bz2
+Removed _ipyw_jlab_nb_ext_conf-0.1.0-py36he11e457_0.tar.bz2
+Removed xz-5.2.3-h2bcbf08_1.tar.bz2
+Removed matplotlib-2.1.0-py36hba5de38_0.tar.bz2
+Removed pathlib2-2.3.0-py36h49efa8e_0.tar.bz2
+Removed expat-2.2.4-hc00ebd1_1.tar.bz2
+Removed msgpack-python-0.4.8-py36hec4c5d1_0.tar.bz2
+Removed gstreamer-1.12.2-h4f93127_0.tar.bz2
+Removed pickleshare-0.7.4-py36h63277f8_0.tar.bz2
+Removed pip-9.0.1-py36h8ec8b28_3.tar.bz2
+Removed ipywidgets-7.0.0-py36h7b55c3a_0.tar.bz2
+Removed decorator-4.1.2-py36hd076ac8_0.tar.bz2
+Removed partd-0.3.8-py36h36fd896_0.tar.bz2
+Removed tk-8.6.7-h5979e9b_1.tar.bz2
+Removed numpy-1.13.3-py36ha12f23b_0.tar.bz2
+Removed snowballstemmer-1.2.1-py36h6febd40_0.tar.bz2
+Removed openpyxl-2.4.8-py36h41dd2a8_1.tar.bz2
+Removed bokeh-0.12.10-py36hbb0e44a_0.tar.bz2
+Removed cloudpickle-0.4.0-py36h30f8c20_0.tar.bz2
+Removed pygments-2.2.0-py36h0d3125c_0.tar.bz2
+Removed ruamel_yaml-0.11.14-py36ha2fb22d_2.tar.bz2
+Removed click-6.7-py36h5253387_0.tar.bz2
+Removed et_xmlfile-1.0.1-py36hd6bccc3_0.tar.bz2
+Removed cython-0.26.1-py36h21c49d0_0.tar.bz2
+Removed jupyter-1.0.0-py36h9896ce5_0.tar.bz2
+Removed pandocfilters-1.4.2-py36ha6701b7_1.tar.bz2
+Removed mistune-0.7.4-py36hbab8784_0.tar.bz2
+Removed libgcc-ng-7.2.0-h7cc24e2_2.tar.bz2
+Removed alabaster-0.7.10-py36h306e16b_0.tar.bz2
+Removed pandoc-1.19.2.1-hea2e7c5_1.tar.bz2
+Removed certifi-2017.7.27.1-py36h8b7b77e_0.tar.bz2
+Removed qtawesome-0.4.4-py36h609ed8c_0.tar.bz2
+Removed asn1crypto-0.22.0-py36h265ca7c_1.tar.bz2
+Removed readline-7.0-hac23ff0_3.tar.bz2
+Removed pcre-8.41-hc71a17e_0.tar.bz2
+Removed libxml2-2.9.4-h6b072ca_5.tar.bz2
+Removed bleach-2.0.0-py36h688b259_0.tar.bz2
+Removed scipy-0.19.1-py36h9976243_3.tar.bz2
+Removed blaze-0.11.3-py36h4e06776_0.tar.bz2
+Removed sqlite-3.20.1-h6d8b0f3_1.tar.bz2
+Removed pyyaml-3.12-py36hafb9ca4_1.tar.bz2
+ ---> e88d2c705a78
+Removing intermediate container 81e674000b7f
+Step 7/10 : VOLUME /src
+ ---> Running in a4d2df44c694
+ ---> c9cbf216e485
+Removing intermediate container a4d2df44c694
+Step 8/10 : WORKDIR /src
+ ---> a429dbd318be
+Removing intermediate container eec82bac6a8d
+Step 9/10 : EXPOSE 8888
+ ---> Running in 32e4f1c3df79
+ ---> 68400ffabdde
+Removing intermediate container 32e4f1c3df79
+Step 10/10 : CMD jupyter notebook --port=8888 --ip=0.0.0.0 --allow-root
+ ---> Running in 6b3c0a5e10a5
+ ---> 53e6269119a0
+Removing intermediate container 6b3c0a5e10a5
+Successfully built 53e6269119a0
+Dwilson@Dwilson kerasvideo (data) $ ls
+ColumnSet.py                     install-docker.sh
+Dockerfile                       install-nvidia-docker.sh
+Keras Logistic Regression.ipynb  load_data.py
+Loading Data.ipynb               table_model.py
+Name Generation.ipynb            the_adventures_of_tom_sawyer.txt
+Sentence Generation.ipynb        vimit
+cities.txt
+Dwilson@Dwilson kerasvideo (data) $ ./install-docker.sh
+[sudo] password for Dwilson:
+Hit:1 http://ppa.launchpad.net/webupd8team/atom/ubuntu xenial InRelease
+Hit:2 http://ppa.launchpad.net/webupd8team/java/ubuntu xenial InRelease
+Get:3 http://security.ubuntu.com/ubuntu xenial-security InRelease [102 kB]
+Hit:4 http://archive.canonical.com/ubuntu xenial InRelease
+Get:5 http://security.ubuntu.com/ubuntu xenial-security/main amd64 Packages [430 kB]
+Get:6 http://security.ubuntu.com/ubuntu xenial-security/main i386 Packages [389 kB]
+Get:7 http://security.ubuntu.com/ubuntu xenial-security/main Translation-en [188 kB]
+Get:8 http://security.ubuntu.com/ubuntu xenial-security/universe amd64 Packages [199 kB]
+Get:9 http://security.ubuntu.com/ubuntu xenial-security/universe i386 Packages [161 kB]
+Get:10 http://security.ubuntu.com/ubuntu xenial-security/universe Translation-en [101 kB]
+Ign:11 http://packages.linuxmint.com serena InRelease
+Hit:12 http://packages.linuxmint.com serena Release
+Hit:13 http://archive.ubuntu.com/ubuntu xenial InRelease
+Get:15 http://archive.ubuntu.com/ubuntu xenial-updates InRelease [102 kB]
+Get:16 http://archive.ubuntu.com/ubuntu xenial-backports InRelease [102 kB]
+Get:17 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages [705 kB]
+Get:18 http://archive.ubuntu.com/ubuntu xenial-updates/main i386 Packages [658 kB]
+Get:19 http://archive.ubuntu.com/ubuntu xenial-updates/main Translation-en [294 kB]
+Get:20 http://archive.ubuntu.com/ubuntu xenial-updates/restricted amd64 Packages [7588 B]
+Get:21 http://archive.ubuntu.com/ubuntu xenial-updates/restricted i386 Packages [7548 B]
+Get:22 http://archive.ubuntu.com/ubuntu xenial-updates/universe amd64 Packages [577 kB]
+Get:23 http://archive.ubuntu.com/ubuntu xenial-updates/universe i386 Packages [536 kB]
+Ign:24 http://dl.google.com/linux/chrome/deb stable InRelease
+Get:25 http://dl.google.com/linux/chrome/deb stable Release [1189 B]
+Get:26 http://dl.google.com/linux/chrome/deb stable Release.gpg [819 B]
+Get:27 http://dl.google.com/linux/chrome/deb stable/main amd64 Packages [1415 B]
+Get:28 http://archive.ubuntu.com/ubuntu xenial-updates/universe Translation-en [233 kB]
+Get:29 http://archive.ubuntu.com/ubuntu xenial-updates/multiverse amd64 Packages [16.2 kB]
+Get:30 http://archive.ubuntu.com/ubuntu xenial-updates/multiverse i386 Packages [15.3 kB]
+Fetched 4828 kB in 37s (127 kB/s)
+Reading package lists... Done
+W: Target Packages (main/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+W: Target Packages (main/binary-all/Packages) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+W: Target Translations (main/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+W: Target Translations (main/i18n/Translation-en_GB) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+N: Skipping acquire of configured file 'main/binary-i386/Packages' as repository 'http://dl.google.com/linux/chrome/deb stable InRelease' doesn't support architecture 'i386'
+W: Target Packages (main/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+W: Target Packages (main/binary-all/Packages) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+W: Target Translations (main/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+W: Target Translations (main/i18n/Translation-en_GB) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+The following additional packages will be installed:
+  libcurl3-gnutls
+The following NEW packages will be installed:
+  software-properties-common
+The following packages will be upgraded:
+  apt-transport-https ca-certificates curl libcurl3-gnutls
+4 upgraded, 1 newly installed, 0 to remove and 550 not upgraded.
+Need to get 521 kB of archives.
+After this operation, 44.0 kB disk space will be freed.
+Do you want to continue? [Y/n] y
+Get:1 http://packages.linuxmint.com serena/upstream amd64 software-properties-common all 1.6.4 [5206 B]
+Get:2 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 curl amd64 7.47.0-1ubuntu2.5 [138 kB]
+Get:3 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 libcurl3-gnutls amd64 7.47.0-1ubuntu2.5 [184 kB]
+Get:4 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 apt-transport-https amd64 1.2.24 [26.1 kB]
+Get:5 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 ca-certificates all 20170717~16.04.1 [168 kB]
+Fetched 521 kB in 25s (20.1 kB/s)
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = "en_GB:en",
+	LC_ALL = (unset),
+	LANG = "xfce.desktop"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+^[OQ^[^[111111111111111111111111111111111111111111111111111111111111111111111111111111111locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+Preconfiguring packages ...
+(Reading database ... 205663 files and directories currently installed.)
+Preparing to unpack .../curl_7.47.0-1ubuntu2.5_amd64.deb ...
+Unpacking curl (7.47.0-1ubuntu2.5) over (7.47.0-1ubuntu2.2) ...
+Preparing to unpack .../libcurl3-gnutls_7.47.0-1ubuntu2.5_amd64.deb ...
+Unpacking libcurl3-gnutls:amd64 (7.47.0-1ubuntu2.5) over (7.47.0-1ubuntu2.2) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for libc-bin (2.23-0ubuntu5) ...
+Setting up libcurl3-gnutls:amd64 (7.47.0-1ubuntu2.5) ...
+Processing triggers for libc-bin (2.23-0ubuntu5) ...
+(Reading database ... 205663 files and directories currently installed.)
+Preparing to unpack .../apt-transport-https_1.2.24_amd64.deb ...
+Unpacking apt-transport-https (1.2.24) over (1.2.17) ...
+Preparing to unpack .../ca-certificates_20170717~16.04.1_all.deb ...
+Unpacking ca-certificates (20170717~16.04.1) over (20160104ubuntu1) ...
+Selecting previously unselected package software-properties-common.
+Preparing to unpack .../software-properties-common_1.6.4_all.deb ...
+Unpacking software-properties-common (1.6.4) ...
+Processing triggers for man-db (2.7.5-1) ...
+Setting up curl (7.47.0-1ubuntu2.5) ...
+Setting up apt-transport-https (1.2.24) ...
+Setting up ca-certificates (20170717~16.04.1) ...
+locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+Setting up software-properties-common (1.6.4) ...
+Processing triggers for ca-certificates (20170717~16.04.1) ...
+Updating certificates in /etc/ssl/certs...
+WARNING: Skipping duplicate certificate UbuntuOne-Go_Daddy_Class_2_CA.pem
+WARNING: Skipping duplicate certificate UbuntuOne-Go_Daddy_Class_2_CA.pem
+17 added, 42 removed; done.
+Running hooks in /etc/ca-certificates/update.d...
+
+Adding debian:AC_RAIZ_FNMT-RCM.pem
+Adding debian:Amazon_Root_CA_1.pem
+Adding debian:Amazon_Root_CA_2.pem
+Adding debian:Amazon_Root_CA_3.pem
+Adding debian:Amazon_Root_CA_4.pem
+Adding debian:Certplus_Root_CA_G1.pem
+Adding debian:Certplus_Root_CA_G2.pem
+Adding debian:Certum_Trusted_Network_CA_2.pem
+Adding debian:Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem
+Adding debian:Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem
+Adding debian:ISRG_Root_X1.pem
+Adding debian:LuxTrust_Global_Root_2.pem
+Adding debian:OpenTrust_Root_CA_G1.pem
+Adding debian:OpenTrust_Root_CA_G2.pem
+Adding debian:OpenTrust_Root_CA_G3.pem
+Adding debian:SZAFIR_ROOT_CA2.pem
+Adding debian:TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem
+Removing debian:AC_Ra?z_Certic?mara_S.A..pem
+Removing debian:ApplicationCA_-_Japanese_Government.pem
+Removing debian:Buypass_Class_2_CA_1.pem
+Removing debian:CA_Disig.pem
+Removing debian:CA_WoSign_ECC_Root.pem
+Removing debian:Certification_Authority_of_WoSign_G2.pem
+Removing debian:ComSign_CA.pem
+Removing debian:EBG_Elektronik_Sertifika_Hizmet_Sa?lay?c?s?.pem
+Removing debian:Equifax_Secure_CA.pem
+Removing debian:Equifax_Secure_Global_eBusiness_CA.pem
+Removing debian:Equifax_Secure_eBusiness_CA_1.pem
+Removing debian:IGC_A.pem
+Removing debian:Juur-SK.pem
+Removing debian:Microsec_e-Szigno_Root_CA.pem
+Removing debian:NetLock_Business_=Class_B=_Root.pem
+Removing debian:NetLock_Express_=Class_C=_Root.pem
+Removing debian:NetLock_Notary_=Class_A=_Root.pem
+Removing debian:NetLock_Qualified_=Class_QA=_Root.pem
+Removing debian:RSA_Security_2048_v3.pem
+Removing debian:Root_CA_Generalitat_Valenciana.pem
+Removing debian:S-TRUST_Authentication_and_Encryption_Root_CA_2005_PN.pem
+Removing debian:S-TRUST_Universal_Root_CA.pem
+Removing debian:Sonera_Class_1_Root_CA.pem
+Removing debian:Staat_der_Nederlanden_Root_CA.pem
+Removing debian:StartCom_Certification_Authority.pem
+Removing debian:StartCom_Certification_Authority_2.pem
+Removing debian:StartCom_Certification_Authority_G2.pem
+Removing debian:SwissSign_Platinum_CA_-_G2.pem
+Removing debian:TC_TrustCenter_Class_3_CA_II.pem
+Removing debian:T?RKTRUST_Elektronik_Sertifika_Hizmet_Sa?lay?c?s?_H6.pem
+Removing debian:UTN_USERFirst_Email_Root_CA.pem
+Removing debian:Verisign_Class_1_Public_Primary_Certification_Authority.pem
+Removing debian:Verisign_Class_1_Public_Primary_Certification_Authority_-_G2.pem
+Removing debian:Verisign_Class_1_Public_Primary_Certification_Authority_-_G3.pem
+Removing debian:Verisign_Class_2_Public_Primary_Certification_Authority_-_G2.pem
+Removing debian:Verisign_Class_2_Public_Primary_Certification_Authority_-_G3.pem
+Removing debian:Verisign_Class_3_Public_Primary_Certification_Authority.pem
+Removing debian:Verisign_Class_3_Public_Primary_Certification_Authority_-_G2.pem
+Removing debian:Verisign_Class_3_Public_Primary_Certification_Authority_2.pem
+Removing debian:WellsSecure_Public_Root_Certificate_Authority.pem
+Removing debian:WoSign.pem
+Removing debian:WoSign_China.pem
+done.
+done.
+OK
+
+(process:22906): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Hit:1 http://security.ubuntu.com/ubuntu xenial-security InRelease
+Ign:2 http://packages.linuxmint.com serena InRelease
+Hit:3 http://packages.linuxmint.com serena Release
+Hit:4 http://archive.canonical.com/ubuntu xenial InRelease
+Ign:6 http://dl.google.com/linux/chrome/deb stable InRelease
+Hit:7 http://dl.google.com/linux/chrome/deb stable Release
+Err:9 https://download.docker.com/linux/ubuntu serena InRelease
+  Could not resolve host: download.docker.com
+Hit:10 http://ppa.launchpad.net/webupd8team/atom/ubuntu xenial InRelease
+Hit:11 http://archive.ubuntu.com/ubuntu xenial InRelease
+Hit:12 http://archive.ubuntu.com/ubuntu xenial-updates InRelease
+Hit:13 http://ppa.launchpad.net/webupd8team/java/ubuntu xenial InRelease
+Hit:14 http://archive.ubuntu.com/ubuntu xenial-backports InRelease
+Reading package lists... Done
+W: Target Packages (main/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+W: Target Packages (main/binary-all/Packages) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+W: Target Translations (main/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+W: Target Translations (main/i18n/Translation-en_GB) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+N: Skipping acquire of configured file 'main/binary-i386/Packages' as repository 'http://dl.google.com/linux/chrome/deb stable InRelease' doesn't support architecture 'i386'
+W: Failed to fetch https://download.docker.com/linux/ubuntu/dists/serena/InRelease  Could not resolve host: download.docker.com
+W: Some index files failed to download. They have been ignored, or old ones used instead.
+W: Target Packages (main/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+W: Target Packages (main/binary-all/Packages) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+W: Target Translations (main/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+W: Target Translations (main/i18n/Translation-en_GB) is configured multiple times in /etc/apt/sources.list.d/google-chrome.list:3 and /etc/apt/sources.list.d/google.list:1
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+Package docker-ce is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+E: Package 'docker-ce' has no installation candidate
+@Dwilson kerasvideo (data) $ 
