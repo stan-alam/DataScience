@@ -1,0 +1,61 @@
+Kermit@Kermit Desktop $ docker ps
+Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get http://%2Fvar%2Frun%2Fdocker.sock/v1.26/containers/json: dial unix /var/run/docker.sock: connect: permission denied
+Kermit@Kermit Desktop $ sudo docker ps
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+Kermit@Kermit Desktop $ sudo docker run --rm -v /users/data alpine ls /data
+Unable to find image 'alpine:latest' locally
+latest: Pulling from library/alpine
+ff3a5c916c92: Pull complete
+Digest: sha256:7df6db5aa61ae9480f52f0b3a06a140ab98d427f86d8d5de0bedab9b8df6b1c0
+Status: Downloaded newer image for alpine:latest
+ls: /data: No such file or directory
+Kermit@Kermit Desktop $ sudo docker run --rm -v /users/data alpine 1s /data
+container_linux.go:247: starting container process caused "exec: \"1s\": executable file not found in $PATH"
+docker: Error response from daemon: invalid header field value "oci runtime error: container_linux.go:247: starting container process caused \"exec: \\\"1s\\\": executable file not found in $PATH\"\n".
+ERRO[0000] error getting events from daemon: context canceled
+Kermit@Kermit Desktop $ cd ~
+Kermit@Kermit ~ $ ls
+Desktop    Downloads  Music     Public      Templates
+Documents  git        Pictures  PythonREST  Videos
+Kermit@Kermit ~ $ cd Users
+bash: cd: Users: No such file or directory
+Kermit@Kermit ~ $ cd ..
+Kermit@Kermit home $ cd Users
+bash: cd: Users: No such file or directory
+Kermit@Kermit home $ ls
+Kermit
+Kermit@Kermit home $ cd /
+Kermit@Kermit / $ ls
+bin    dev   initrd.img  lost+found  opt   run   sys  var
+boot   etc   lib         media       proc  sbin  tmp  vmlinuz
+cdrom  home  lib64       mnt         root  srv   usr
+Kermit@Kermit / $ cd user
+bash: cd: user: No such file or directory
+Kermit@Kermit / $ cd usr
+Kermit@Kermit usr $ ls
+bin  games  include  lib  local  sbin  share  src
+Kermit@Kermit usr $ cd ..
+Kermit@Kermit / $ ls
+bin    dev   initrd.img  lost+found  opt   run   sys  var
+boot   etc   lib         media       proc  sbin  tmp  vmlinuz
+cdrom  home  lib64       mnt         root  srv   usr
+Kermit@Kermit / $ cd home
+Kermit@Kermit home $ ls
+Kermit
+Kermit@Kermit home $ cd Kermit/
+Kermit@Kermit ~ $ ls
+Desktop    Downloads  Music     Public      Templates
+Documents  git        Pictures  PythonREST  Videos
+Kermit@Kermit ~ $ cd Desktop/
+Kermit@Kermit Desktop $ ls
+cDStructs
+Kermit@Kermit Desktop $ sudo docker run --rm -v /usr:/data alpine ls /data
+bin
+games
+include
+lib
+local
+sbin
+share
+src
+Kermit@Kermit Desktop $
