@@ -1,1 +1,7 @@
-## Stats for Managers using Excel
+## Workspace for Statistics for Managers using Excel
+
+```text
+
+Stats using Excel
+
+```
