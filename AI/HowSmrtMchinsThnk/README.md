@@ -1,0 +1,9 @@
+## notes on 'How Smart Machines Think'
+
+Everything you've always wanted to know about self-driving cars, Netflix recommendations, IBM's Watson, and video game-playing computer programs.
+
+The future is here: Self-driving cars are on the streets, an algorithm gives you movie and TV recommendations, IBM's Watson triumphed on Jeopardy over puny human brains, computer programs can be trained to play Atari games. But how do all these things work? In this book, Sean Gerrish offers an engaging and accessible overview of the breakthroughs in artificial intelligence and machine learning that have made today's machines so smart.
+
+Gerrish outlines some of the key ideas that enable intelligent machines to perceive and interact with the world. He describes the software architecture that allows self-driving cars to stay on the road and to navigate crowded urban environments; the million-dollar Netflix competition for a better recommendation engine (which had an unexpected ending); and how programmers trained computers to perform certain behaviors by offering them treats, as if they were training a dog. He explains how artificial neural networks enable computers to perceive the world-and to play Atari video games better than humans. He explains Watson's famous victory on Jeopardy, and he looks at how computers play games, describing AlphaGo and Deep Blue, which beat reigning world champions at the strategy games of Go and chess. Computers have not yet mastered everything, however; Gerrish outlines the difficulties in creating intelligent agents that can successfully play video games like StarCraft that have evaded solution-at least for now.
+
+Gerrish weaves the stories behind these breakthroughs into the narrative, introducing readers to many of the researchers involved, and keeping technical details to a minimum. Science and technology buffs will find this book an essential guide to a future in which machines can outsmart people.
